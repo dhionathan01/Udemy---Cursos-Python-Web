@@ -1,3 +1,7 @@
 .borda{
     border: solid red 1px;
+    /* display: inline; */
+   /* display: block; */
+    display: inline-block; 
+
 }
