@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Cor e Imagem de fundo</title>
+        <meta charset="utf-8">
+        <style type="text/css">
+          /* .fundo{
+                background: blue;
+                color: white;
+            }*/
+            /* Trocar o span para body apra testar */
+            span{
+                background-image: url('img/yoshi.png');
+                background-repeat: no-repeat; /* repeat, no-repeat, repeat-x, repeat-y */
+                background-attachment: fixed; /* scroll */
+                /* background-position (Posição do Background): Primeiro valor defini o alinhamento horizontal (left, right, Center). Enquanto o segundo Valor defini o alinhamento vertical (top, Bottom, Center) Topo, Inferior, Centro */
+                background-position: center bottom; 
+            }
+            /* Unificando tudo visto acima em uma única classe: */
+            .fundo{
+                background: blue url(img/yoshi.png) no-repeat scroll center top;
+            }
+
+        </style>
+    </head>
+    <body class="fundo">
+
+        <h1>Conteúdo de Título 1</h1>
+        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus semper quam finibus tellus sagittis bibendum. Vivamus egestas risus tristique maximus scelerisque. Donec sagittis dui id ipsum sodales tincidunt. Phasellus dui nunc, tempus in nisl nec, consectetur eleifend neque. Aliquam erat volutpat. Praesent sed sollicitudin libero, nec rhoncus ipsum. Donec auctor pharetra nulla, at convallis neque fringilla eu. Phasellus mattis augue arcu, et ultricies libero feugiat venenatis.</p>
+        <br><br><br><br><br><br><br><br>
+        <br><br><br><br><br><br><br><br><br>
+        <br><br><br><br><br><br><br><br><br>
+
+        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus semper quam finibus tellus sagittis bibendum. Vivamus egestas risus tristique maximus scelerisque. Donec sagittis dui id ipsum sodales tincidunt. Phasellus dui nunc, tempus in nisl nec, consectetur eleifend neque. Aliquam erat volutpat. Praesent sed sollicitudin libero, nec rhoncus ipsum. Donec auctor pharetra nulla, at convallis neque fringilla eu. Phasellus mattis augue arcu, et ultricies libero feugiat venenatis.</p>
+    </body>
+</html>

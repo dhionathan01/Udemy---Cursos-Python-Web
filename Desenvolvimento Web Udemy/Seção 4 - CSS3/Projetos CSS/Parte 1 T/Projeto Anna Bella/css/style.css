@@ -1,0 +1,49 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+.fundo{
+    background-image: url('../img/fundo.png');
+}
+.capa{
+    background-image: url('../img/capa.png');
+    background-attachment: scroll;
+    background-repeat: no-repeat;
+    width: 900px;
+    height: 388px;
+}
+.ajuste{
+    padding: 30px;
+    margin: 30px;
+    width: 840px;
+    background-color: #b1b387;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-style: bold;
+}
+
+a:link 
+{ 
+ text-decoration: none;
+ font-weight: bold;
+ color: rgba(77, 36, 116, 0.966);
+} 
+
+.conteudo{
+    width: 900px;
+    background-color: #f1f1e1;
+}
+
+.container{
+    padding: 10px;
+}
+.titulo{
+    color:#8c8f54 ;
+}
+.rodape{
+    font-weight: bold;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    margin: 10px;
+    padding: 10px;
+    text-align: center;
+    width: 900px;
+}

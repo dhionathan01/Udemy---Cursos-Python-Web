@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Tabelas</title>
+        <meta charset="utf-8">
+    </head>
+
+    <body>
+
+        <table border="2" width='100%'> <!-- É possível definir tamanho e altura pra tabela-->
+            <tr>
+                <th>Código</th>
+                <th>Produto</th>
+                <th>Preço</th>
+            </tr> 
+
+            <tr>
+                <td>001</td>
+                <td>Notebook</td>
+                <td>R$ 2.500,99</td>
+            </tr>
+
+            <tr>
+                <td>002</td>
+                <td>Tablet</td>
+                <td>R$ 999,99</td>
+            </tr>
+
+            <tr>
+                <td rowspan="2" >Desconto</td> <!-- rowspan: Extensão da linha (row "linha" / span 'Extensão"') -->
+                <td colspan="2" >cupom 1 -R$ 10</td> <!-- colspan: Extensão da coluna (col "Coluna" / span" extensão")-->
+            </tr>
+
+            <tr>
+                <td colspan="2" >cupom 1 -R$ 10</td> <!--colspan: Extensão da coluna (col "Coluna" / span" extensão")-->
+            </tr>
+
+            <tr>
+                <td>Total</td>
+                <td colspan="2">R$ 3.478,98</td>
+            </tr>
+        </table>
+        
+
+    </body>
+</html>

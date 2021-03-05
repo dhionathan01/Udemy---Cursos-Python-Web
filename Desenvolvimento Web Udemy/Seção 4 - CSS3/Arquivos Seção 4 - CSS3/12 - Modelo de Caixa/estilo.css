@@ -1,0 +1,43 @@
+/* 
+    Modelo de Caixa Css.
+    * OBS: Margin se dá ao espaçamento feito na parte externa a borda.
+           Padding se dá ao espaçamento feito na parte interna a borda que defini uma distancia entre o conteúdo interno até a borda.
+            */
+.conteudo {
+    border: 1px solid red;
+    /* Exemplos de manipulação de Padding por direções top (Superior), bottom (inferior), right (direita), left (Esquerda) */
+    /* 
+       padding-top: 20px;
+       padding-right: 20px;
+       padding-bottom: 20px;
+       padding-left: 20px; 
+    */
+    
+    /* Manipulação de padding sem definir o nome das direções */
+    /* padding: 20px, 15px, 10px, 5px; *//* OBS: A definição é em sentido hórario logo : 20px(top), 15px(right), 10px(bottom), 5px(left)*/
+    /* padding: 20px, 5px;*/ /* Definindo 20px de padding para Top e Bottom, e 5px para Left e Right.*/
+    padding: 20px; /* Defini 20px de padding para todas as direções (Top, Bottom, Right, Left). */
+
+    /* O Fundamento de manipulação de margin é o mesmo que de padding.: */
+    /* 
+       margin-top: 20px;
+       margin-right: 20px;
+       margin-bottom: 20px;
+       margin-left: 20px; 
+    */
+    
+    /* Manipulação de margin sem definir o nome das direções */
+    /* margin: 20px, 15px, 10px, 5px; *//* OBS: A definição é em sentido hórario logo : 20px(top), 15px(right), 10px(bottom), 5px(left)*/
+    /* margin: 20px, 5px;*/ /* Definindo 20px de margin para Top e Bottom, e 5px para Left e Right.*/
+    margin: 10px; /* Defini 20px de margin para todas as direções (Top, Bottom, Right, Left). */
+
+    width: 150px;
+}
+
+.conteudo2 {
+    /* Observando Efeito Margin Collapse. Mais detalhes em 15:08 Aula 40 - Modelo Caixa. */
+    margin: 50px;
+    border: 1px solid red;
+    padding: 20px;
+    width: 150px;
+}
