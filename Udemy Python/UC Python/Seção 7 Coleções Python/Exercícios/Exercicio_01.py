@@ -14,6 +14,5 @@ print(A)
 soma = A[0] + A[1] + A[5]   # Parte 2
 print(f'Soma dos Vetores A[0] , A[1], A[5]: {soma}')    # Parte 2.1
 A[4] = 100  # Parte 3
-for i in range(len(A)): # Parte 4
+for i in range(len(A)):  # Parte 4
     print(A[i])
-
