@@ -1,7 +1,7 @@
 .borda{
     border: solid red 1px;
-    /* display: inline; */
-   /* display: block; */
-    display: inline-block; 
+    /* display: inline; */ /* Um elemento a frente do outro e a largura da caixa é de acordo com seu conteúdo. */
+   /* display: block; */ /* Oculpa todo o espaço da tela e ficar um abaixo do outro. */
+    display: inline-block; /* A largura definida pelo seu conteúdo e os itens um abaixo do outro. OBS: Os elementos só sofrem quebra caso não couberem um a frente do outro. */
 
 }
