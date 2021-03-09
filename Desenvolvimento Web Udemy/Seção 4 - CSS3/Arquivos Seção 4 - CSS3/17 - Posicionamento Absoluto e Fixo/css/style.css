@@ -1,0 +1,41 @@
+p{
+    width: 300px;
+}
+
+body{
+    background: #007fc7 ;
+}
+.fixed{
+    border: 1px solid blue;
+    background: #f2f2f2;
+    position: fixed;
+    right: 0px;
+    bottom: 0px;
+    margin: 0px;
+    
+    
+}
+.absolute{
+    border: 1px solid red;
+    background: #f2f2f2;
+    /* Quando utilizamos o position absolute ocorre o mesmo que quando trabalhamos com o float o elemento deixa o fluxo normal dos outros elementos, ou seja entende que não existe outros elementos além daqueles que se encontram no fluxo do position absolute. */
+    position: absolute; 
+    top: 50px;
+    left: 20px;
+    /* OBS: O position absolute é alinhado junto com o container ( a Div no qual ele está contido). Vale ressaltar que caso o container esteja na posição padrão (position static) não será possível fazer o alinhamento já que utilizara como referência o Body que está por padrão em estático */
+}
+.relative{
+    border: solid red 1px;
+    position: relative;
+    /* Definições de deslocamento (top, bottom, left, right) */
+    top: 20px; /* Se desloca a partir do topo 20px (20 pixels para baixo) */
+    left: 20px; /* Se desloca a partir da direita 20px (20 pixels para esquerda) */
+}
+
+#container{
+    background-color: #fff;
+    width: 800px;
+    margin: 10px auto;
+    padding: 10px;
+    position: relative;
+}
