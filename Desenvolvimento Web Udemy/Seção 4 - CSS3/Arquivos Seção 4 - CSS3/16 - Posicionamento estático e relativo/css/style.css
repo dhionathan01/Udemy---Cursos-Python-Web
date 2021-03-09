@@ -1,0 +1,22 @@
+p{
+    width: 300px;
+}
+
+body{
+    background: #007fc7 ;
+}
+
+.relative{
+    border: solid red 1px;
+    position: relative;
+    /* Definições de deslocamento (top, bottom, left, right) */
+    top: 20px; /* Se desloca a partir do topo 20px (20 pixels para baixo) */
+    left: 20px; /* Se desloca a partir da direita 20px (20 pixels para esquerda) */
+}
+
+#container{
+    background-color: #fff;
+    width: 800px;
+    margin: 10px auto;
+    padding: 10px;
+}
