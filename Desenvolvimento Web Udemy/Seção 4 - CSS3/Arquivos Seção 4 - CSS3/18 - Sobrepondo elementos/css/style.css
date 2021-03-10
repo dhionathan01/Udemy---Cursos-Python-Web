@@ -1,0 +1,28 @@
+.conteudo1 {
+    border: 1px solid red;
+    background: orange;
+    width: 200px;
+    height: 200px;
+    position: absolute;
+    z-index: 1; /* O z-index é utilizado para selecionar qual elemento deve se sobrepor ao outro, o que tiver o maior valor sobrepoem os de menor. */
+}
+.conteudo2 {
+    border: 1px solid red;
+    background: green;
+    width: 200px;
+    height: 200px;
+    position: absolute;
+    top: 80px;
+    left: 80px;
+    z-index: 2;
+}
+.conteudo3 {
+    border: 1px solid red;
+    background: yellow;
+    width: 200px;
+    height: 200px;
+    position: absolute;
+    top: 160px;
+    left: 160px;
+    z-index: 3;
+}
