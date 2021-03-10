@@ -8,7 +8,7 @@ body{
 .fixed{
     border: 1px solid blue;
     background: #f2f2f2;
-    position: fixed;
+    position: fixed; /* O conteúdo fica fixo na tela não acompanha a rolagem */
     right: 0px;
     bottom: 0px;
     margin: 0px;
