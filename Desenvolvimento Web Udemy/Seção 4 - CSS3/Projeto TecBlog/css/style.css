@@ -1,112 +1,120 @@
-body{
+/* Limpando formatações padrao */
+* {
     margin: 0;
     padding: 0;
-    background-color: rgb(216, 209, 209);
 }
 
+body {
+    font-size: 1em; /* Equivale a 16px */
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    background: #e6e6e6;
+}
 
-#barra_superior {
-
-    width: 100%;
-    height: 25%;
-    background-color: rgb(231, 151, 3);
-    position: absolute;
-    font-size: 50px;
-    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+/* 
+*** Layout  ***
+*/
+ #area_cabecalho {
+    background: #f7b600; 
+    padding: 15px;
     text-align: center;
+ }
+
+ #area_principal {
+     width: 920px;
+     padding: 15px;
+     margin: 0 auto; /* ao definir as margens esquerda e direta como automáticas centralizam o conteudo */
+ }
+.conteudo_lateral {
+    background: white;
+    padding: 10px;
+    margin-bottom: 20px;
 }
-#menu{
-    position: absolute;
-    top: 15%;
-    right: 30%;
-    z-index: 10;
+
+ #area_postagem {
+    width: 660px;
+    float: left;
+ }
+ .postagem {
+     padding: 20px;
+     margin-bottom: 20px;
+     background: white;
+
+ }
+
+ #barra_lateral {
+    width: 240px;
+    float: right;
+ }
+
+#rodape {
+    clear: both;
+    text-align: center;
+    padding: 15px;
+    background: #ccc;
 }
-#menu>a{
+
+ /* Abaixo definim que tanto a area de logo quanto a de menu terão um padding de 10px */
+ #area_logo, #area_menu {
+     padding: 10px;
+ }
+
+/*
+ *** Formatação do menu *** 
+ */
+
+a {
+    text-decoration: none;
+}
+a:link, a:visited {
+    color: #f7b600;
+    
+}
+a:hover {
+    text-decoration: underline;
+    
+}
+
+#area_cabecalho a:link,#area_cabecalho a:visited {
+    color: #fff;
+    padding: 8px 12px;
+}
+#area_cabecalho a:hover {
+    background-color: #fff;
+    color: #f7b600;
+    text-decoration: none;
+}
+
+ /*
+ *** Formatação em geral *** 
+*/
+
+h1 {
+    color: #4e4e4e;
+    font-size: 2.5em;
+}
+
+.branco {
     color: white;
-    padding: 10px;
-    font-size: 20px;
-}
-#menu>a:hover{
-    background-color: white;
-    color: rgb(226, 147, 0);
-}
-#corpo_postagens1{
-    width: 50%;
-    margin: 10px;
-    padding: 20px;
-    background-color: white;
-    position: absolute;
-    top: 25%;
-    left: 15%;
-}
-#corpo_postagens2{
-    width: 50%;
-    margin: 10px;
-    padding: 20px;
-    background-color: white;
-    position: absolute;
-    top: 130%;
-    left: 15%;
-}
-#Abas_laterais {
-    position: absolute;
-    right: 5%;
-    top: 25%;
-    width: 20%;
-    height: auto;
-    margin: 10px;
-    padding: 10px;
-    background-color: white;
-}
-#categorias {
-    position: absolute;
-    right: 5%;
-    top: 65%;
-    width: 20%;
-    height: auto;
-    margin: 10px;
-    padding: 10px;
-    background-color: white;
-    border: blue;
-}
-#Rodape {
-background-color: gray;
-position: absolute;
-top: 245%;
-width: 100%;
-text-align: center;
-font-weight: bolder;
 }
 
+h2 {
+    color: #f7b600;
+}
 
-.titulo_postagem {
-    color: rgb(226, 147, 0);
-    font-family: Arial, Helvetica, sans-serif;
-    margin: 0;
-}
-.img_aling {
-    text-align: center;
-}
-.legenda_post {
-    text-align: right;
-
-}
-.titulo_lateral {
-    background-color: gray;
-    color: rgb(36, 34, 34);
-    font-family: Arial, Helvetica, sans-serif;
-    margin: 0;
-    padding: 5px 10px;
-
-}
-.conteudo_lateral{
+h3{
+    color: #565656;
+    background: #ccc;
     padding: 5px;
 }
 
-a{
-    color: orange;
-    text-decoration: none;
-    font-family: Arial, Helvetica, sans-serif;
-    font-size: 14px;
-    font-weight: bold;
+.data_postagem {
+    font-size: 0.8em ;
+    border-bottom: solid 1px #f4f4f4;
+    padding-bottom: 10px ;
+    display: block;
+}
+.postagem-lateral{
+    font: size 0.8em;
+    padding: 5px;
+    border-bottom: dotted 1px #ccc ;
 }
