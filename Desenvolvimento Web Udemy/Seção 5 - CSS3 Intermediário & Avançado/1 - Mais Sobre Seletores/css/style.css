@@ -1,0 +1,51 @@
+/* ************************ 
+ Seletor Universal 
+* {
+    border: 1px solid red;
+} */
+
+/* ****************************
+Seletor de texto 
+
+h1 {
+    color: green;
+} */
+
+/* *************************** 
+Seletor de Classe */
+
+/* .verde {  Todos os elementos com classe verde tera os efeitos abaixos aplicados 
+    color: green;
+}  */
+
+/*p.verde {  Somente os elementos parágrafos que tiverem a classe tera os efeitos abaixos aplicados 
+    color: green;
+} */
+
+/* *********************
+Seletor de ID  */
+
+#cabecalho {
+    border: solid 1px blue;
+}
+
+/* ******************
+Seletor de filho */
+
+li>a {
+    color: red;
+    text-decoration: none;
+}
+
+/* *************************
+Seletor de Descendente */
+
+p a { /* Todos os Links dentro de um parágrafo  tera os efeitos aplicados a baixo */
+    color: orange;
+}
+h1+p {
+    color: red;
+}
+h3~p {
+    color: pink;
+}

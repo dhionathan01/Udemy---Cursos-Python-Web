@@ -1,0 +1,13 @@
+/* ******************************
+Herança e Especificidade */
+
+/*
+Quando aplicamos uma formatação todos os elementos herdam aquela formatação, observe o Body por exemplo
+ao indicarmos que body recebera coloração vermelha em texto, todos os elementos nele contido tbm receberam essa coloração pois eles herdaram essa instrução. 
+Obs: Border e Background não são herdados observe que borda e o background foram aplicados somente na região do body, e não nos outros elementos nele contidos 
+*/
+body {
+    color: red;
+    border: 2px solid blue;
+    background: grey;
+}
