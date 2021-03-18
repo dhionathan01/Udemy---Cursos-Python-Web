@@ -1,0 +1,58 @@
+/* ************************
+Barra de navegação vertical  */
+
+/* Configurando uma lista e embutindo imagem | Teste  */
+/* ul {
+    border: solid 1px red;
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+}
+
+li {
+    padding: 10px 20px;
+    border: 1px solid red;
+    background: url(../img/seta.png) no-repeat left center;
+} */
+
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+}
+
+ul a {
+    display: block;
+    width: 200px;
+    height: 40px;
+    text-decoration: none;
+    background: #f7b600 url(../img/menu.png) no-repeat left bottom;
+    text-indent: 40px;
+    line-height: 40px;
+    color: #000;
+
+}
+
+a:hover {
+    background-position: right;
+    background-color: #f99200;
+    color: #fff;
+}
+
+/* Metodo 1 (Classe) */
+
+/* a:hover, .selecionado a {
+    background-position: right;
+    background-color: #f99200;
+    color: #fff;
+} */
+
+/* Metodo 2 (Ids,Classes,Links) */
+
+#home #navegacao .home a,
+#sobre #navegacao .sobre a,
+#servicos #navegacao .servicos a{
+    background-position: right;
+    background-color: #f99200;
+    color: #fff;
+}
