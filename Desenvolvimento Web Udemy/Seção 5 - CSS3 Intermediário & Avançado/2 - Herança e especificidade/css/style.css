@@ -2,7 +2,7 @@
 Herança e Especificidade */
 
 /*
-Quando aplicamos uma formatação todos os elementos herdam aquela formatação, observe o Body por exemplo
+Por utilizarmos folhas de estilo em cascata quando aplicamos uma formatação todos os elementos herdam aquela formatação, observe o Body por exemplo
 ao indicarmos que body recebera coloração vermelha em texto, todos os elementos nele contido tbm receberam essa coloração pois eles herdaram essa instrução. 
 Obs: Border e Background não são herdados observe que borda e o background foram aplicados somente na região do body, e não nos outros elementos nele contidos 
 */
@@ -10,4 +10,45 @@ body {
     color: red;
     border: 2px solid blue;
     background: grey;
+}
+
+/* *********************** 
+Especificidade 
+Observe o Exemplo  */
+/* Caso utilizar dois seletores iguais, sempre o último será aplicado */
+
+/* #pagina p {
+    color: red !important; 
+} */
+
+/*
+ OBS: A tag important da preferência ao atributi selecionado, ou seja ele remete que esse atributo é o mais importante logo, ele se sobrepoem ao outro mesmo que ele anteceda o mesmo. Não é recomendado o uso frequente dessa tag.
+ */
+
+/* #pagina p {
+    color: blue
+} */
+
+/* Se um seletor for mais específico que o outro a regra mais específica será aplicada
+(terá precedência sobre regras mais gerais)
+Exemplo:
+ */
+/* A especificidade é priorizada mais que o efeito cascata, logo se um termo for mais específco, ele pode vir antes ou depois de qualquer atributo que era se sobrepor, ira ter prioridade na sua exibição */
+ * {
+     color: red;
+ }
+ /* O elemento * é universal ou seja oque tiver contido nele é aplicado a toda a página e em todas as tags ou seja ele é um elemento geral, menos específico que o h2. */
+
+ h2 {
+    color: blue;
+}
+/* O h2 ele engloba somente a tag h2, ou seja ele é um termo mais específico do que o *, logo ele se sobrepoem a oque tiver contido no elemento universal '*' . */
+ 
+h2#amarelo {
+    color: yellow;
+}
+/* Observe que o a h2 está com a cor amarela, mesmo que logo abaixo especificamos color o verde, isso acontece pq o id (identificador único ) é mais específico do que a classe, por isso ele ignora o efeito cascata e é priorizado pelo efeito da especifidade. */
+
+h2.green {
+    color: green;
 }
