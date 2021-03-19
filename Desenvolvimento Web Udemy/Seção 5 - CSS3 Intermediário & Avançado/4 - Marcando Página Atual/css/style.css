@@ -51,7 +51,9 @@ a:hover {
 
 #home #navegacao .home a,
 #sobre #navegacao .sobre a,
-#servicos #navegacao .servicos a{
+#servicos #navegacao .servicos a,
+#noticia #navegacao .noticia a,
+#contato #navegacao.noticia a {
     background-position: right;
     background-color: #f99200;
     color: #fff;
