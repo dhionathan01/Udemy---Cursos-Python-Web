@@ -1,0 +1,77 @@
+body{
+    font-family: 'Trebuchet MS','Helvetica', sans-serif;
+    background: #f2f2f2;
+}
+
+#container{
+    margin: 0 auto; /* Sempre que utilizamos auto nas laterais o conteúdo é centralizado */
+    width: 960px;
+    background: #fff url(../img/coluna.png) repeat-y;
+    min-width: 720px;
+    /* max-width: 960px; */
+}
+
+/* #imagem{
+    width: 90%;
+    overflow: hidden; -> oculta a parte da imagem que ultrapassar os limites da div
+}
+ */
+
+
+#marca{
+    width: 100%;
+    height: 200px;
+    text-align: center;
+    line-height: 200px;
+    background: #225992 url(../img/cabecalho2.jpg) no-repeat center;
+}
+
+#conteudo{
+    width: /* 520px; -> ~75 */ 75%;
+    float: right;
+}
+
+#navegacao{
+    width: /* 180px; -> ~25% */ 23%;
+    float: left;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    
+}
+#conteudo-principal {
+    width: /* 320px; -> ~64% */ 63%;
+    float: left;
+}
+img.img-noticia{
+    width: 94%;
+    padding: 2%;
+    max-width: 600px;
+}
+#conteudo-secundario {
+    width: /* 180px; -> 36% */ 34%;
+    float: right;
+    background: #d1d1d1;
+}
+
+#conteudo-secundario h1,
+#conteudo-secundario h2,
+#conteudo-secundario h3,
+#conteudo-secundario p{
+    padding-right: 20px;
+    padding-left: 20px;
+}
+
+
+#rodape{
+    clear: both;
+    background: #c4c4c4;
+}
+
+
+#navegacao ul {
+    list-style: none;
+}
+
+#navegacao li a {
+    text-decoration: none;
+}
