@@ -1,0 +1,5 @@
+"""
+Módulo Collections: Ordered Dict
+
+
+"""
