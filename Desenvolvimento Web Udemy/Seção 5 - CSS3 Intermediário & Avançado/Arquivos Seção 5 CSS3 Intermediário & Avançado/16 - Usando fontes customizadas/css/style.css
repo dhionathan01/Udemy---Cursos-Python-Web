@@ -1,0 +1,35 @@
+@font-face {
+    font-family: "Road Range";
+    src: url(../fonts/RoadRage.woff);
+}
+@font-face {
+    font-family: "Bring";
+    src: url(../fonts/BringHeart.woff);
+}
+@font-face {
+    font-family: "Ancient";
+    src: url(../fonts/Ancient-Medium.woff);
+}
+@font-face {
+    font-family: "Madelina";
+    src: url(../fonts/MadelinaScript.woff);
+}
+h1.Road {
+    font-size: 6em;
+    font-family: "Road Range";
+}
+
+h1.Bring {
+    font-size: 6em;
+    font-family: "Bring";
+}
+
+h1.Ancient {
+    font-size: 6em;
+    font-family: "Ancient";
+}
+
+h1.Madelina {
+    font-size: 6em;
+    font-family: "Madelina";
+}

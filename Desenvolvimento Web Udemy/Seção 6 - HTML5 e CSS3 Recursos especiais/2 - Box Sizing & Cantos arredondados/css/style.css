@@ -1,0 +1,61 @@
+#caixa {
+    width: 300px;
+    height: 300px;
+    background: #b9c941;
+    padding:10px;
+    margin: 10px;
+    -moz-border-radius: 10px 50px 80px 100px;
+    -webkit-border-radius: 10px 50px 80px 100px;
+    border-radius: 150px;
+    float: left;
+}
+#caixa2.border-box{
+    width: 300px;
+    height: 300px;
+    padding: 50px;
+    -moz-box-sizing: border-box;
+    -webkit-box-sizing: border-box;
+    box-sizing: border-box;
+    background: #b9c941;
+    /* -moz-border-radius: 10px 50px 80px 100px;
+    -webkit-border-radius: 10px 50px 80px 100px;
+    border-radius: 150px;
+    float: left; */
+}
+#caixa2 {
+    width: 300px;
+    height: 300px;
+    background: #b9c941;
+    /* -moz-border-radius: 10px 50px 80px 100px;
+    -webkit-border-radius: 10px 50px 80px 100px;
+    border-radius: 150px;
+    float: left; */
+}
+#caixa.test1 {
+    width: 300px;
+    height: 300px;
+    background: #b9c941;
+    padding:10px;
+    margin: 10px;
+    -moz-border-radius: 10px 50px 80px 100px;
+    -webkit-border-radius: 10px 50px 80px 100px;
+    border-radius: 10px 50px 80px 100px;
+    float: right;
+}
+#caixa.test2 {
+    width: 300px;
+    height: 300px;
+    background: #b9c941;
+    padding:10px;
+    margin: 10px;
+    -moz-border-radius:90px 20px;
+    -webkit-border-radius: 90px 20px;
+    border-radius: 90px 20px;
+    float: right;
+}
+.arredondamento {
+    -moz-border-radius: 150px;
+    -webkit-border-radius: 150px;
+    border-radius: 150px;
+    float: left;
+}
