@@ -24,7 +24,7 @@ for r in raios:
 print(areas)
 
 # Forma 2 - Map
-# ma é uma função que recebe dois parâmetros: O primeiro a função o segundo um iterável
+# map é uma função que recebe dois parâmetros: O primeiro a função o segundo um iterável
 
 areas = map(area, raios)
 print(areas)
@@ -50,7 +50,7 @@ print(list(map(lambda r: math.pi * (r ** 2), raios)))
 
 # Função: f(x)
 
-# Utilizamos a função map(f, dados) onde  map irá 'mapear' cada eleemnto dos dados e aplicar a função.
+# Utilizamos a função map(f, dados) onde  map irá 'mapear' cada elemnto dos dados e aplicar a função.
 
 # O Map Object: f(a1), f(a2), f(...), f(an)
 
