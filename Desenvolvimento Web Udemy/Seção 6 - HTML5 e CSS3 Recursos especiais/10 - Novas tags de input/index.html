@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Novas tags Input</title>
+        <link rel="stylesheet" href="css/style.css">
+        <meta charset="utf-8">
+    </head>
+    <body>
+        <form action="">
+            <!-- Novos inputs e atributos HTML5 -->
+            <label for="nome">Nome</label>
+            <input type="text" name="nome" id="nome" required='required'>
+            <br><br>
+
+            <!-- Input tipo email -->
+            <label for="email">Email</label>
+            <input type="email" id="email" autofocus required >
+            <br><br>
+
+            <!-- Input tipo Numero -->
+            <label for="numero">Número</label>
+            <input type="number" id="numero" min='1' max='20' step="5">
+            <!--       
+            min : define o menor valor que pode ser inserido no input 
+            max : define o maior valor que pode ser inserido no input 
+            step : define de quanto sera o incremento da seta por click
+             -->
+            <br><br>
+            <!-- Input de url -->
+            <label for="url">Url</label>
+            <input type="url" name="url" id="url" placeholder="ex: http://wwww...">
+            <br><br>
+            <!-- Input de pesquisa -->
+            <label for="search">Pesquisa</label>
+            <input type="search" id="pesquisa">
+            <br><br>
+            <!-- input de Range -->
+            <label for="range">Range</label>
+            <input type="range" id="range" min="1" max="3" value="2">
+            <!-- 
+            min : define o menor valor que pode ser alocado no range 
+            max : define o maior valor que pode ser alocado no range 
+            value : Defini um valor padrão para ser exibido no range
+             -->
+            <br><br>
+            <!-- Input  Data -->
+            <label for="date">Data</label>
+            <input type="date" name="date" id="date">
+            <br><br>
+            <!-- Input do tipo Palheta de cores -->
+            <label for="color">cor</label>
+            <input type="color" name="color" id="color">
+            <br><br>
+
+            <input type="submit" name="" value="Enviar">
+        </form>
+    </body>
+</html>
