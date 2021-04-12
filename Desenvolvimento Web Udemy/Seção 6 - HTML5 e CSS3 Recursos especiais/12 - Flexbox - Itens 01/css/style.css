@@ -1,0 +1,44 @@
+#conteudo {
+    background: #dcdcdc;
+    height: 600px;
+    display: flex;
+
+} 
+
+.item {
+    width: 100px;
+    height: 100px;
+    margin: 10px;
+    background: white;
+    border: 1px solid gray;    
+}
+.item1 {
+    flex-grow: 1 ; /* Define a proporção que um item ocupa valor = 0 mantém o item em seu tamanho normal valor = 1 oculta todo o espaço dispinível, quanto maior o valor que for definino maior o espaço que sera ocupado, observção ao definir 2 esse item ocupara o dobro do espaço do item com valor 1 e assim sucetivamente*/
+}
+
+.item2 {
+    flex-grow: 2;
+}
+.item3 {
+    flex-grow: 3;
+}
+.item4 {
+    flex-grow: 4;
+}
+/*
+.item3
+ .ordem1{
+    order: 1;
+}
+
+.ordem2{
+    order: 2;
+}
+
+.ordem3{
+    order: 3;
+}
+
+.ordem4{
+    order: 4;
+} */
