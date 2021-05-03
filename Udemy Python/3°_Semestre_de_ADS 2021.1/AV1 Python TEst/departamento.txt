@@ -1,0 +1,2 @@
+{"_id": "01", "_nome": "Informatica", "_gerente": "Dhionathan", "_troco": 100, "_status_caixa": "Close", "_dinheiro_em_caixa": 410, "_numero_de_vendas": 2}
+{"_id": "01", "_nome": "Informatica", "_gerente": "Dhionathan", "_troco": 100, "_status_caixa": "Close", "_dinheiro_em_caixa": 410, "_numero_de_vendas": 2}
