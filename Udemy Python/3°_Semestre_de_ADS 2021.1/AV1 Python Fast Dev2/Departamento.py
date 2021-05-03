@@ -1,148 +1,85 @@
-import json
-
-
-class newFuncionario:
-    id = None
-    nome = None
-    matricula = None
-    cargo = None
-    departamento = None
-    salario = None
-
-    def set_id(self, identificador_unico):
-        self.id = identificador_unico
-
-    def get_id(self):
-        return self.id
-
-    def set_nome(self, nome):
-        self.nome = nome
-
-    def get_nome(self):
-        return self.nome
-
-    def set_matricula(self, matricula):
-        self.matricula = matricula
-
-    def get_matricula(self):
-        return self.matricula
-
-    def set_cargo(self, cargo):
-        self.cargo = cargo
-
-    def get_cargo(self):
-        return self.cargo
-
-    def set_departamento(self, departamento):
-        self.departamento = departamento
-
-    def get_departamento(self):
-        return self.departamento
-
-    def set_salario(self, salario):
-        self.salario = salario
-
-    def get_salario(self):
-        return self.salario
-
-    def calcular_salario_liquido(self):
-        salario_liquido = (self.salario * 0.84) * 1.3
-        return salario_liquido
-
-    def __str__(self):
-        return "{id:" + self.get_id() + \
-               ",nome:" + self.get_nome() + \
-               ",matricula:" + self.get_matricula() + \
-               ",cargo:" + self.get_cargo() + \
-               ",departamento:" + self.get_departamento() + \
-               ", salario:" + str(self.get_salario())
-
-
-class Gerente(newFuncionario):
-    cargo = None
-    salario = None
-
-    def set_cargo(self, cargo):
-        self.cargo = cargo
-
-    def get_cargo(self):
-        return self.cargo
-
-    def set_salario(self, salario):
-        self.salario = salario
-
-    def get_salario(self):
-        return self.salario
-
-    def calcular_salario_liquido(self):
-        salario_liquido = (self.salario * 0.84) + (self.salario * 0.5)
-        return salario_liquido
-
 
 class Departamento:
-    id = None
-    nome = None
-    gerente = None
+    __id = None
+    __nome = None
+    _gerente = None
+    _status_caixa = 'Close'
+    _dinheiro_em_caixa = 0
+    _troco = 0
+    _numero_de_vendas = 0
 
     def set_id(self, identificador_unico):
-        self.id = identificador_unico
+        self.__id = identificador_unico
 
     def get_id(self):
-        return self.id
+        return self.__id
 
     def set_nome(self, nome):
-        self.nome = nome
+        self.__nome = nome
 
     def get_nome(self):
-        return self.nome
+        return self.__nome
 
     def set_gerente(self, gerente):
-        self.gerente = gerente
+        self._gerente = gerente
 
     def get_gerente(self):
-        return self.gerente
+        return self._gerente
 
+    def set_status_caixa(self, caixa):
+        self._status_caixa = caixa
 
-class FuncionarioDAO:
-    dados = {}
+    def get_status_caixa(self):
+        return self._status_caixa
 
-    def salva(self, novo_funcionario):
-        self.dados[novo_funcionario.get_id()] = novo_funcionario
-        with open('funcionario.txt', "a+") as file_open:
-            file_open.write(f'{json.dumps(self.dados, default=vars)}\n')
-        self.dados.clear()
+    def set_dinheiro_caixa(self, dinheiro):
+        self._dinheiro_em_caixa = dinheiro
 
-    def atualizar(self, novo_funcionario):
-        self.dados[novo_funcionario.get_id()] = novo_funcionario
+    def get_dinheiro_caixa(self):
+        return self._dinheiro_em_caixa
 
-    def deletar(self, novo_funcionario):
-        del self.dados[novo_funcionario.get_id()]
+    def set_troco(self, troco):
+        self._troco = troco
 
-    def recuperar_por_id(self, chave):
-        return self.dados[chave]
+    def get_troco(self):
+        return self._troco
 
-    def listar(self):
-        with open("funcionario.txt", "r") as file_open:
-            print(file_open.read())
+    def set_numero_de_vendas(self, numero_vendas):
+        self._numero_de_vendas = numero_vendas
 
+    def get_numero_de_vendas(self):
+        return self._numero_de_vendas
 
-class GerenteDAO:
-    dados = {}
+    def abrir_caixa(self, troco, status_caixa='open'):
+        self._troco = troco
+        self._status_caixa = str(status_caixa).title()
+        self.set_dinheiro_caixa(self.get_dinheiro_caixa() + self.get_troco())
 
-    def salva(self, novo_funcionario):
-        self.dados[novo_funcionario.get_id()] = novo_funcionario
+    def __calcular_montante(self):
+        print(f'Montante/Lucro: {self.get_dinheiro_caixa() - self.get_troco()}\n')
 
-    def atualizar(self, novo_funcionario):
-        self.dados[novo_funcionario.get_id()] = novo_funcionario
+    def registar_venda(self, quantidade, valor):
+        if self._status_caixa == 'Open':
+            self.set_dinheiro_caixa(self.get_dinheiro_caixa() + (quantidade * valor))
+            self.set_numero_de_vendas(self.get_numero_de_vendas() + 1)
+        else:
+            print('Caixa está Fechado')
 
-    def deletar(self, novo_funcionario):
-        del self.dados[novo_funcionario.get_id()]
+    def fechar_caixa(self, status_caixa='Close'):
+        self._status_caixa = str(status_caixa).title()
+        print(f'Número de Vendas: {self.get_numero_de_vendas()}, \n'
+              f'Valor Total em Caixa: {self.get_dinheiro_caixa()}')
+        self.__calcular_montante()
 
-    def recuperar_por_id(self, chave):
-        return self.dados[chave]
-
-    def listar(self):
-        return self.dados
+    def __str__(self):
+        return f'id: {self.get_id()}, ' \
+               f'nome:  {self.get_nome()}, ' \
+               f'gerente:  {self.get_gerente()}, ' \
+               f'Caixa:  {self.get_status_caixa()}, ' \
+               f'dinheiro:  {self.get_dinheiro_caixa()}, ' \
+               f'troco: {str(self.get_troco())}, ' \
+               f'Numero de Vendas: {self.get_numero_de_vendas()}, ' \
+               f'; \n'
 
 
 class DepartamentoDOA:
@@ -162,25 +99,3 @@ class DepartamentoDOA:
 
     def listar(self):
         return self.dados
-
-
-funcionario = newFuncionario()
-funcionario.set_id('01')
-funcionario.set_nome('Dhionathan')
-funcionario.set_matricula('332131551')
-funcionario.set_departamento('Vendas')
-funcionario.set_cargo('Vendedor')
-funcionario.set_salario(3500.21)
-
-funcionarioDao = FuncionarioDAO()
-funcionarioDao.salva(funcionario)
-
-funcionario2 = newFuncionario()
-funcionario2.set_id('02')
-funcionario2.set_nome('Sara')
-funcionario2.set_matricula('5543')
-funcionario2.set_departamento('Vendas')
-funcionario2.set_cargo('Vendedor')
-funcionario2.set_salario(3500.21)
-funcionarioDao.salva(funcionario2)
-funcionarioDao.listar()

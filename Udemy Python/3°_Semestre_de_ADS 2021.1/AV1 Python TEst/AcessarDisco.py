@@ -1,21 +1,14 @@
 import json
 
 
-class AcessarDisco:
-    nome_do_arquivo = ''
-    dados = {}
+class EmployeeDA:
+    _nome = "employeeDataAccess"
 
-    def salva(self, lista, nome_do_arquivo):
-        self.dados = lista
-        if nome_do_arquivo == 'funcionario':
-            with open('funcionario.txt', "a") as file_open:
-                file_open.write(f'{json.dumps(self.dados, default=vars)}\n')
-                file_open.close()
-        elif nome_do_arquivo == 'departamento':
-            with open('departamento.txt', "a") as file_open:
-                file_open.write(f'{json.dumps(self.dados, default=vars)}\n')
-                file_open.close()
-        elif nome_do_arquivo == 'departamento':
-            with open('departamento.txt', "a") as file_open:
-                file_open.write(f'{json.dumps(self.dados, default=vars)}\n')
-                file_open.close()
+    def write(self, data):
+        with open('employee.txt', "w") as file_open:
+            file_open.write(json.dumps(data, default=vars))
+
+    def read(self):
+        with open('employee.txt', "r") as file_open:
+            data = json.loads(file_open.read())
+            return data

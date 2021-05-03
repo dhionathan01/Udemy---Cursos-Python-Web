@@ -67,10 +67,11 @@ print(f' List Comprehension: {list_comp} Bytes')
 print(f' Set Comprehension: {set_comp} Bytes')
 print(f' Dictionary Comprehension: {dic_comp} Bytes')
 print(f' Generator Expression: {gen} Bytes')
-
+'''
 gen = (x * 10 for x in range(1000))
 print(gen)
 print(type(gen))
 
 for num in gen:
     print(num)
+'''

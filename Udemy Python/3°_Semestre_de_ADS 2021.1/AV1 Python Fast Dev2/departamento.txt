@@ -1,0 +1,1 @@
+id: 01, nome:  Informatica, gerente:  Dhionathan, Caixa:  Close, dinheiro:  410, troco: 100, Numero de Vendas: 2, ; 

@@ -1,0 +1,4 @@
+{"01": {"id": "01", "nome": "Dhionathan", "matricula": "332131551", "departamento": "Vendas", "cargo": "Vendedor", "salario": 3500.21}}
+{"02": {"id": "02", "nome": "Sara", "matricula": "5543", "departamento": "Vendas", "cargo": "Vendedor", "salario": 3500.21}}
+{"01": {"id": "01", "nome": "Dhionathan", "matricula": "332131551", "departamento": "Vendas", "cargo": "Vendedor", "salario": 3500.21}}
+{"02": {"id": "02", "nome": "Sara", "matricula": "5543", "departamento": "Vendas", "cargo": "Vendedor", "salario": 3500.21}}
