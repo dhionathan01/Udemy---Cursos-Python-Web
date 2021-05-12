@@ -1,4 +1,4 @@
-# Repositóriopara o armazenamento dos materiais e projetos dos cursos que estou fazendo.
+# Repositório para o armazenamento dos materiais e projetos dos cursos que estou fazendo.
 ### **Desenvolvimento Web Completo 2021 - 20 cursos + 20 projetos**: 
 1) HTML5
 
