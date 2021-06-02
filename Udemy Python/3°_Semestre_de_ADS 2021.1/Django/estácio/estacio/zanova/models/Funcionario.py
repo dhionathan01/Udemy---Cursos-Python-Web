@@ -8,4 +8,4 @@ class Funcionario(models.Model):
     cargo = models.CharField(max_length=20)
     salario = models.DecimalField(max_digits=10, decimal_places=2)
     bonus = 30
-    Departamento = models.ForeignKey('Departamento', on_delete=models.CASCADE, null=False)
+    departamento = models.ForeignKey('Departamento', on_delete=models.CASCADE, null=False)
