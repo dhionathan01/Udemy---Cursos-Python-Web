@@ -25,22 +25,64 @@
   </head>
 
   <body>
-
-    <div>
+   <!--  Tipos de container:
+    class='container' container padrão que centraliza o conteúdo.
+    class='container-fluid' container fluído ocupa 100% do espaçamento da tela -->
+    <div class="container marcador-container">
       
       <h2>Largura fixa</h2>
-
+        <div class="row" style="border: 1px solid;">
+          <!-- Colocar a classe col sem um media querrie faz com que as divs se distribua aos espaçamentos -->
+          <div class="marcador col">área 1</div>
+          <div class="marcador col">área 2</div>
+          <div class="marcador col">área 3</div>
+          <div class="marcador col">área 4</div>
+        </div>
       <h2>Largura automática (auto-layout)</h2>
+        <div class="row" style="border: 1px solid;">
+          <div class="marcador col">área 1</div>
+          <div class="marcador col">área 2</div>
+          <div class="marcador col-6">área 3</div>
+        </div>
 
       <h2>Largura igual empilhada</h2>
+        <div class="row" style="border: 1px solid;">
+          <!-- Ao colocar a classe com com uma media querrie porém sem específicar as colunas, as divs ficam empilhadas até que chegue no tamanho da MQ definina(sm/lg/xl) -->
+          <div class="marcador col-sm">área 1</div>
+          <div class="marcador col-sm">área 2</div>
+          <div class="marcador col-sm">área 3</div>
+        </div>
 
       <h2>Ordenando</h2>
-
+      <div class="row" style="border: 1px solid;">
+        <!-- Para ordenar o conteúdo exibido basta definir a class order e informa a ordem de exibição(order-1) -->
+        <div class="marcador col-md-4 order-2">área 1</div>
+        <div class="marcador col-md-4 order-1">área 2</div>
+        <div class="marcador col-md-4 order-3">área 3</div>
+      </div>
       <h2>offset</h2>
+      <div class="row">
+        <!-- Offset desloca de acordo com o número de colunas informado o conteúdo -->
+        <div class="marcador col-md-6 offset-md-3">Login...</div>
+      </div>
+      
 
       <h2>offset múltiplos alinhamentos</h2>
-
+      <div class="row">
+        <div class="marcador col-md-3">Conteúdo 1</div>
+        <div class="marcador col-md-3 offset-md-6">Conteúdo 2</div>
+      </div>
       <h2>Aninhamento</h2>
+      <!-- Cada row contém um grind de 12 colunas -->
+      <div class="row">
+        <div class="col-md-6" style="border: 1px solid blue">
+          col-md-6
+          <div class="row">
+            <div class="col-md-6 marcador"> Conteúdo 1 </div>
+            <div class="col-md-6 marcador"> Conteúdo 2 </div>
+          </div>
+        </div>
+      </div>
 
     </div>
 
