@@ -18,7 +18,7 @@ dados = [a1, a2, a3, ..., an]
 def funcao(x, y):
     return x * y
 
-Assim como map() e filter(0, a função reduce() recebe dois parâmentros: a função e o iterável.
+Assim como map() e filter(), a função reduce() recebe dois parâmentros: a função e o iterável.
 
 reduce(funcao, dados)
 

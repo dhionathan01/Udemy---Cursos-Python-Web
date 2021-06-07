@@ -1,7 +1,7 @@
 """
 Reversed
 
-OBS: Não confunda com a função reserve() que estudamos nas listas.
+OBS: Não confunda com a função reverse() que estudamos nas listas.
 
 A função reverse() só funciona em listas.
 
