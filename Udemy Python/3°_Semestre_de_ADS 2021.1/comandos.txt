@@ -1,0 +1,19 @@
+>>> from polls.models.Carteira import Carteira
+>>> from polls.models.Despesa 
+>>> despesa1 = Despesa(id=1, nome='despesa1', gastos=300)
+>>> despesa2 = Despesa(id=2, nome='despesa2', gastos=400)
+>>> despesa1.save()
+>>> despesa2.save()
+>>> despesa3 = Despesa(id=3, nome='despesa3', gastos=350)
+>>> despesa4 = Despesa(id=4, nome='despesa4', gastos=650)
+>>> despesa3.save()
+>>> despesa4.save()
+>>> from polls.models.Receita import Receita
+
+>>> receita1 = Receita(id=1, nome='receita1', valores=300)
+>>> receita2 = Receita(id=2, nome='receita2', valores=500)
+>>> receita3 = Receita(id=3, nome='receita3', valores=850)
+>>> receita1.save()
+>>> receita2.save()
+>>> receita3.save()
+
