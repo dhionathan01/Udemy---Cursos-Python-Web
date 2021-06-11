@@ -1,0 +1,71 @@
+from Dhionathan.models.Professor import Professor
+
+Bruno_Professor = Professor(id=1, nome="Bruno Zonovelli da Silva")
+Ronney_Professor = Professor(id=2, nome="Ronney Moreira de Castro")
+Douglas_Professor = Professor(id=3, nome="Douglas Machado Silva")
+
+Bruno_Professor.save()
+Ronney_Professor.save()
+Douglas_Professor.save()
+
+from Dhionathan.models.Disciplina import Disciplina
+
+Python_Disciplina = Disciplina(id=1, nome="Desenvolvimento Rápido de Aplicações em Python", periodo=3, dia_da_semana="Terça-Feira", hora_inicio="18:50", hora_fim="21:20", professor=Bruno_Professor)
+
+Engenharia_Disciplina = Disciplina(id=2, nome="Engenharia de Software", periodo=3, dia_da_semana="Segunda-Feira", hora_inicio="18:50",
+hora_fim="21:20", professor=Ronney_Professor)
+
+Sistemas_Disciplina = Disciplina(id=3, nome="Sistemas Operacionais", periodo=3, dia_da_semana="Sexta-Feira", hora_inicio="18:50", hora_
+fim="21:20", professor=Douglas_Professor)
+
+Python_Disciplina.save()
+Engenharia_Disciplina.save()
+Sistemas_Disciplina.save()
+
+from Dhionathan.models.Avaliacao import Avaliacao
+from Dhionathan.models.Tipo_de_Avaliacao import Tipo_de_Avaliacao
+
+Tipo_de_Avaliacao = Tipo_de_Avaliacao()
+
+Python_AV1 = Avaliacao(id=1, data="27/04/2021", tipo_de_avaliacao=Tipo_de_Avaliacao.tipo_av(indice=1), nota=8.5, disciplina=Python_Disciplina)
+Engenharia_AV1 = Avaliacao(id=2, data="26/04/2021", tipo_de_avaliacao=Tipo_de_Avaliacao.tipo_av(indice=1), nota=9.8, disciplina=Engenharia_Disciplina)
+Sistemas_AV1 = Avaliacao(id=3, data="30/04/2021", tipo_de_avaliacao=Tipo_de_Avaliacao.tipo_av(indice=1), nota=10.0, disciplina=Sistemas_Disciplina)
+Python_Disciplina.save()
+Engenharia_Disciplina.save()
+Sistemas_Disciplina.save()
+
+_________________________________________________________________________________________________________________________________________________________________
+Os códigos abaixo pertencem  a questão 7:
+
+from Dhionathan.models.Professor import Professor
+
+lista_de_professores = Professor.objects.all()
+
+nomes_professores = []
+
+for professor in lista_de_professores:
+     nomes_professores.append(professor.nome)
+
+print(nomes_professores)
+['Bruno Zonovelli da Silva', 'Ronney Moreira de Castro', 'Douglas Machado Silva']
+
+from Dhionathan.models.Avaliacao import Avaliacao
+
+lista_de_avaliacao = Avaliacao.objects.all()
+avaliacao = []
+
+for av in lista_de_avaliacao:
+     avaliacao.append(av.tipo_de_avaliacao)
+
+print(avaliacao)
+['AV1', 'AV1', 'AV1']
+
+from Dhionathan.models.Disciplina import Disciplina
+lista_de_Disciplinas = Disciplina.objects.all()
+nomes_disciplinas = []
+
+for disciplina in lista_de_Disciplinas:
+     nomes_disciplinas.append(disciplina.nome)
+
+print(nomes_disciplinas)
+['Desenvolvimento Rápido de Aplicações em Python', 'Engenharia de Software', 'Sistemas Operacionais']
