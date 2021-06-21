@@ -12,15 +12,14 @@ from Dhionathan.models.Disciplina import Disciplina
 
 Python_Disciplina = Disciplina(id=1, nome="Desenvolvimento Rápido de Aplicações em Python", periodo=3, dia_da_semana="Terça-Feira", hora_inicio="18:50", hora_fim="21:20", professor=Bruno_Professor)
 
-Engenharia_Disciplina = Disciplina(id=2, nome="Engenharia de Software", periodo=3, dia_da_semana="Segunda-Feira", hora_inicio="18:50",
-hora_fim="21:20", professor=Ronney_Professor)
+Engenharia_Disciplina = Disciplina(id=2, nome="Engenharia de Software", periodo=3, dia_da_semana="Segunda-Feira", hora_inicio="18:50",hora_fim="21:20", professor=Ronney_Professor)
 
-Sistemas_Disciplina = Disciplina(id=3, nome="Sistemas Operacionais", periodo=3, dia_da_semana="Sexta-Feira", hora_inicio="18:50", hora_
-fim="21:20", professor=Douglas_Professor)
+SO_Disciplina = Disciplina(id=3, nome="Sistemas Operacionais", periodo=3, dia_da_semana="Sexta-Feira", hora_inicio="18:50", hora_fim="21:20", professor=Douglas_Professor)
+
 
 Python_Disciplina.save()
 Engenharia_Disciplina.save()
-Sistemas_Disciplina.save()
+SO_Disciplina.save()
 
 from Dhionathan.models.Avaliacao import Avaliacao
 from Dhionathan.models.Tipo_de_Avaliacao import Tipo_de_Avaliacao
@@ -29,13 +28,11 @@ Tipo_de_Avaliacao = Tipo_de_Avaliacao()
 
 Python_AV1 = Avaliacao(id=1, data="27/04/2021", tipo_de_avaliacao=Tipo_de_Avaliacao.tipo_av(indice=1), nota=8.5, disciplina=Python_Disciplina)
 Engenharia_AV1 = Avaliacao(id=2, data="26/04/2021", tipo_de_avaliacao=Tipo_de_Avaliacao.tipo_av(indice=1), nota=9.8, disciplina=Engenharia_Disciplina)
-Sistemas_AV1 = Avaliacao(id=3, data="30/04/2021", tipo_de_avaliacao=Tipo_de_Avaliacao.tipo_av(indice=1), nota=10.0, disciplina=Sistemas_Disciplina)
-Python_Disciplina.save()
-Engenharia_Disciplina.save()
-Sistemas_Disciplina.save()
+Sistemas_AV1 = Avaliacao(id=3, data="30/04/2021", tipo_de_avaliacao=Tipo_de_Avaliacao.tipo_av(indice=1), nota=10.0, disciplina=SO_Disciplina)
+Python_AV1.save()
+Engenharia_AV1.save()
+Sistemas_AV1.save()
 
-_________________________________________________________________________________________________________________________________________________________________
-Os códigos abaixo pertencem  a questão 7:
 
 from Dhionathan.models.Professor import Professor
 
