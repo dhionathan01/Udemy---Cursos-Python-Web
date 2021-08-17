@@ -5,7 +5,7 @@ raise -> Lança excecções
 
 OBS: O raise não é uma função. É uma plavra reservada, assim como def ou qualquer outra em python.
 
-Para simplificar pense no raise como sendo útil para que possomaos criar nossas próprias exceções e mensagens de erro.
+Para simplificar pense no raise como sendo útil para que possamos criar nossas próprias exceções e mensagens de erro.
 
 A forma geral de utilização é:
 

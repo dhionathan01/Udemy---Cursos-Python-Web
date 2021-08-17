@@ -27,7 +27,8 @@ print(rdi(5, 89))
 print(rdm())
 '''
 # Costumamos a utilizar tuple para colocar múltiplos imports de um mesmo módulo
-from random import (random,
+from random import (
+                    random,
                     randint,
                     shuffle,
                     choice

@@ -23,7 +23,7 @@ print(f'Novamente: {list(res)}')
 '''
 
 '''
-# Removendo capos vazios com filter
+# Removendo campos vazios com filter
 
 paises = ['', 'Argentina', '', 'Brasil', 'Chile', '', 'Colombia', '', 'Equador', '', '', 'Venezuela']
 print(paises)

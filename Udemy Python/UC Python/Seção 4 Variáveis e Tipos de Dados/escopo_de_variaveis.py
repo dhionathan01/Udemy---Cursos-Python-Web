@@ -11,7 +11,7 @@ Dois casos de escopo:
     está limitado ao bloco onde foi declarada.
 
 
-Para de calrar variáveis em Python fazemos:
+Para declarar variáveis em Python fazemos:
 nome_da_variavel = valor_da_variavel
 
 Python é uma linaguagem de tipagem dinâmica. Isso significa que ao declararmos

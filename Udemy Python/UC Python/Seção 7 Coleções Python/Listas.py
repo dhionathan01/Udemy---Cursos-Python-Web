@@ -28,7 +28,7 @@ lista4 = list(range(11))  # Criando uma lista de 0 a 11
 lista5 = list('Dhionathan Jobim')
 # print(lista5)
 """
-Repare que a lista 5 é exebida da mesma forma que a lista2, isso se dá ao fato do Python entender
+Repare que a lista 5 é exibida da mesma forma que a lista2, isso se dá ao fato do Python entender
 toda a letra como uma string, não havendo diferença entre char e string.
 """
 # Podemos facilmente checar se determinado valor está contido na lista.
