@@ -66,15 +66,35 @@
       <div class="container align-self-center"> <!-- container -->
         <div class="row"> <!-- row -->
           <div class="col-md-12 capa">
-            <h1>Música para todos</h1>
-            <a href="" class=" btn  btn-lg btn-custom btn-roxo">Aproveite Spotify free</a>
-            <a href="" class=" btn  btn-lg btn-custom btn-branco">Obter Spotify Premium</a>
+            <div id="carousel-spotify" class="carousel slide" data-ride="carousel">
+
+              <div class="carousel-inner"> <!-- inner -->
+                <div class="carousel-item active">
+                  <h1>Música para todos</h1>
+                  <a href="" class=" btn  btn-lg btn-custom btn-roxo">Aproveite Spotify free</a>
+                  <a href="" class=" btn  btn-lg btn-custom btn-branco">Obter Spotify Premium</a>
+                </div>
+
+                <div class="carousel-item">
+                  <h1>As melhores rádios</h1>
+                  <a href="" class=" btn  btn-lg btn-custom btn-branco">
+                    <i class="fas fa-music"></i>  Ouça agora
+                  </a>
+                </div>
+              </div> <!-- /inner -->
+                <a href="#carousel-spotify" class="carousel-control-prev" data-slide="prev">
+                  <i class="fas fa-angle-left fa-3x"></i>
+                </a>
+                <a href="#carousel-spotify" class="carousel-control-next" data-slide="next">
+                  <i class="fas fa-angle-right fa-3x"></i>
+                </a>
+            </div>
           </div>
         </div> <!-- /row -->
       </div> <!-- /container -->
     </section> <!-- /home -->
 
-    <section id="servicos" class="caixa"> <!-- section-servicos -->
+    <section id="servicos"> <!-- section-servicos -->
       <div class="container"> <!-- container2 -->
         <div class="row"> <!-- row-container2 -->
           <div class="col-md-6">
@@ -111,7 +131,7 @@
       </div> <!-- /container2 -->
     </section> <!-- /section-servicos -->
 
-    <section id="recursos" class="caixa"> <!-- section-recursos -->
+    <section id="recursos"> <!-- section-recursos -->
 
       <div class="container"> <!-- container-section-servicos -->
 
@@ -131,17 +151,7 @@
           </div>
 
           <div class="col-md-8"> <!-- imagens -->
-            <div class="row rotacionar">
-
-              <div class="col-md-6">
-                <img src="imagens/iphone1.png" class="img-fluid">
-              </div>
-
-              <div class="col-md-6">
-                <img src="imagens/iphone2.png" class="img-fluid">
-              </div>
-
-            </div>
+            
           </div>
         </div>
       </div> <!-- /container-section-servicos -->
