@@ -1,0 +1,81 @@
+<!DOCTYPE html>
+<html lang="pt">
+<head>
+
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>javascript</title>
+
+    <script>
+        // && - Verdadeiro se todas as expressões forem verdadeiras e falso se uma ou mais expressões forem false
+
+        //  false && true = false
+        if (4 == 2 && 3 <= 5) {
+            document.write('Teste 1: Verdadeiro')
+        }
+        else {
+            document.write('Teste 1: Falso')
+        }
+
+        document.write('<br>')
+
+        //  true && true = true 
+        if (2 == 2 && 3 <= 5) {
+            document.write('Teste 2: Verdadeiro')
+        }
+        else {
+            document.write('Teste 2: Falso')
+        }
+
+        document.write('<br>')
+
+        // || - Verdadeiro se uma das expressões forem verdadeiras e falso se todas as expressões forem false
+        //  false && true = true
+        if (4 == 2 || 3 <= 5) {
+            document.write('Teste 3: Verdadeiro')
+        }
+        else {
+            document.write('Teste 3: Falso')
+        }
+
+        document.write('<br>')
+
+        //  false && false = false 
+        if (2 == 3 && 3 >= 5) {
+            document.write('Teste 4: Verdadeiro')
+        }
+        else {
+            document.write('Teste 4: Falso')
+        }
+
+        document.write('<br>')
+
+        // !  - Inverte o resultado da expresão de comparação , se for true vira false, se for false vira true
+        //  true = false
+        if (!4 == 2) {
+            document.write('Teste 5: Verdadeiro')
+        }
+        else {
+            document.write('Teste 5: Falso')
+        }
+        // Exemplo Nota de aluno
+
+        document.write('<h3>Algoritmo Nota de aluno:</h3>')
+        var nota = prompt('Digite a nota do aluno: ')
+        var faltas = prompt('Digite o número de faltas do aluno: ')
+        var media = 7
+        var faltas_maximas = 15
+        if (nota >= media && faltas <= faltas_maximas) {
+            document.write('Aluno Aprovado')
+        }
+        else {
+            document.write('Aluno Reprovado')
+        }
+    </script>
+
+</head>
+
+<body>
+    
+</body>
+</html>
