@@ -1,0 +1,33 @@
+<html lang="pt">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>JavaScript - Funções Strings</title>
+
+    <script>
+        // Checar o link a seguir para mais informações https://www.w3schools.com/jsref/jsref_obj_string.asp
+        var nome = 'Dhionathan Jobim'
+        //Propriedade length = Retorna a quantidade de caracteres de uma string
+        document.write(nome.length)
+        //Método charAt =  Retorna qual caracter está contido no índice informado
+        document.write('<br>' + nome.charAt(7))
+        // Método indexOf =  Retorna o índice no qual é identificado a primeira ocorrência do caracter informado.
+        document.write('<br>' + nome.indexOf('J')) // Quando não houver o caracter informado dentro da string, será retornado -1
+        // Método Replace =  Pega a cadeia de caracters inserida e substitui pelo segundo valor preenchido.
+        document.write('<br>' + nome.replace('Jobim', 'Lanzoni'))
+        // Método substr = Você informa a posição inicial e a final, e será recortado todos os caracteres nesse intervalo incuslive o contido no índice 6 
+        document.write('<br>' + nome.substr(11, 15))
+        // Método toUppercase e toLowercase =  Uppercase deixa as letras da string em caixa alta, lower em caixa baixa
+        document.write('<br>' + nome.toLocaleUpperCase())
+        document.write('<br>' + nome.toLocaleLowerCase())
+        //Método trim : remove os espaços em branco nas extremidades da string
+        nome = ' Dhionathan Jobim '
+        document.write('<br>' + '-' + nome + '-')
+        document.write('<br>' + '-' + nome.trim() + '-')
+
+    </script>
+</head>
+<body>
+    
+</body>
+</html>
