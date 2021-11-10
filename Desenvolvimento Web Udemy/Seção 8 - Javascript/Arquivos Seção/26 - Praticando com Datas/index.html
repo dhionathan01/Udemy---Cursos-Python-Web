@@ -1,0 +1,76 @@
+<html lang="pt">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>JavaScript - Praticando Datas</title>
+    <script>
+        var data = new Date()
+        // Adicionar // remover dias
+        days = 720
+        document.write('Data atual: ' + data.toString())
+        data.setDate(data.getDate() + days)
+        document.write('<hr>')
+        document.write('Data com Acréscimo de ' + days + ' dias: ')
+        document.write(data.toString())
+        document.write('<br><br><hr>')
+        // Adicionar // remover meses
+        months = 2
+        document.write('Data atual: ' + data.toString())
+        data.setMonth(data.getMonth() + months)
+        document.write('<hr>')
+        document.write('Data com Acréscimo de ' + months + ' meses: ')
+        document.write(data.toString())
+        document.write('<br><br><hr>')
+
+        // Adicionar // remover Anos
+        years = 2
+        document.write('Data atual: ' + data.toString())
+        data.setFullYear(data.getFullYear() + years)
+        document.write('<hr>')
+        document.write('Data com Acréscimo de ' + years + ' anos: ')
+        document.write(data.toString())
+        document.write('<br><br><hr>')
+
+        //Calculando Datas
+        document.write('<h3><strong> Fazendo Operações com Datas: </strong></h3> <br> ')
+        // 15/01/2017
+        var data1 =  new Date(2017, 0, 15)
+        document.write('Data 1: ' + data1 + 'Instanciada' + '<br>')
+        
+        // 23/02/2017
+        var data2 =  new Date(2017, 1, 23)
+        document.write('Data 2: ' + data2 + 'Instanciada' + '<br>')
+        document.write('<br> <hr>')
+        //converter datas para algo que possamos calcular
+
+        // A função getTime exibi a quantidade de milesegundos que tem do dia 1 janeiro de 1970 até o dia em questão, transformando assim em algo que possa vir a ser usado como calculo
+        document.write(data1.getTime())
+        document.write('<hr>')
+        document.write(data2.getTime())
+        document.write('<hr>')
+
+        // encontrar a quantidade de milissegundos entre data 1 e data 2
+        // Método abs da biblioteca math, ele retorna o número absoluto. Ou seja ele mesmo porém positivo
+        document.write('Diferença em milsegundos da Data: <br>' +  data1.toString() + '<br> Para a data: <br>' + data2.toString() + '<br>')
+        document.write('Equivale a : ' + Math.abs(data1.getTime() - data2.getTime()))
+        document.write('<br> <hr>')
+        // 1 dia possui 24 horas, cada hora tem 60 minutos
+        // cada minuto tem 60 segundos
+        // cada segundo tem 1000 milissegundos
+        // Quantos milissegundos existem em um dia ? R:
+        document.write('1 dia possui: ' + (1*24*60*60*1000) +  ' milissegundos')
+        document.write('<br> <br> <hr>')
+        var milissegundos_entre_datas = Math.abs(data1.getTime() - data2.getTime())
+        var milissegundos_por_dia = (1*24*60*60*1000)
+        // Calculando a diferença de dias entre uma data e outra
+        document.write('A diferença entre a data 1 e a data 2 é de  ' + (Math.ceil(milissegundos_entre_datas/milissegundos_por_dia)) + ' dia(s)')
+
+
+
+
+    </script>
+</head>
+<body>
+    
+</body>
+</html>
