@@ -2,7 +2,18 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6ead7ba3-5b25-4530-b5ac-e0bf8dae02d2" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/Seção 4 Variáveis e Tipos de Dados/Exercícios/Exercici_20.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Seção 4 Variáveis e Tipos de Dados/Exercícios/Exercicio_16.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Seção 4 Variáveis e Tipos de Dados/Exercícios/Exercicio_17.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Seção 4 Variáveis e Tipos de Dados/Exercícios/Exercicio_18.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Seção 4 Variáveis e Tipos de Dados/Exercícios/Exercicio_19.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Seção 5 Estruturas Lógicas e Condicionais/Exercícios/Exercicio_16.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Seção 5 Estruturas Lógicas e Condicionais/Exercícios/Exercicio_17.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Seção 5 Estruturas Lógicas e Condicionais/Exercícios/Exercicio_18.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Seção 5 Estruturas Lógicas e Condicionais/Exercícios/Exercicio_19.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Seção 5 Estruturas Lógicas e Condicionais/Exercícios/Exercicio_20.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Seção 4 Variáveis e Tipos de Dados/Exercícios/Exercicio_15.py" beforeDir="false" afterPath="$PROJECT_DIR$/Seção 4 Variáveis e Tipos de Dados/Exercícios/Exercicio_15.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -40,29 +51,8 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
-  <component name="RunManager" selected="Python.Exercício 14">
-    <configuration name="Dicionários" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="UC Python" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Seção 7 Coleções Python" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Seção 7 Coleções Python/Dicionários.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="Exercício 13" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.Exercicio_19 (1)">
+    <configuration name="Exercici_20" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="UC Python" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -74,7 +64,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Seção 4 Variáveis e Tipos de Dados/Exercícios/Exercício 13.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Seção 4 Variáveis e Tipos de Dados/Exercícios/Exercici_20.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -83,7 +73,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Exercício 14" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="Exercicio_16 (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="UC Python" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -91,11 +81,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Seção 4 Variáveis e Tipos de Dados/Exercícios" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Seção 5 Estruturas Lógicas e Condicionais/Exercícios" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Seção 4 Variáveis e Tipos de Dados/Exercícios/Exercício 14.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Seção 5 Estruturas Lógicas e Condicionais/Exercícios/Exercicio_16.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -104,7 +94,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Len, Abs, Sum e Round" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="Exercicio_17 (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="UC Python" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -112,11 +102,53 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Seção 10 - Expressões Lambdas e Funções Integradas" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Seção 5 Estruturas Lógicas e Condicionais/Exercícios" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Seção 10 - Expressões Lambdas e Funções Integradas/Len, Abs, Sum e Round.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Seção 5 Estruturas Lógicas e Condicionais/Exercícios/Exercicio_17.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Exercicio_18 (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="UC Python" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Seção 5 Estruturas Lógicas e Condicionais/Exercícios" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Seção 5 Estruturas Lógicas e Condicionais/Exercícios/Exercicio_18.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Exercicio_19 (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="UC Python" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Seção 5 Estruturas Lógicas e Condicionais/Exercícios" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Seção 5 Estruturas Lógicas e Condicionais/Exercícios/Exercicio_19.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -146,42 +178,21 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="modulos_externos" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="UC Python" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Seção 12 - Módulos e Pacotes em Python" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Seção 12 - Módulos e Pacotes em Python/modulos_externos.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
     <list>
-      <item itemvalue="Python.Dicionários" />
-      <item itemvalue="Python.Exercício 13" />
-      <item itemvalue="Python.Exercício 14" />
-      <item itemvalue="Python.Len, Abs, Sum e Round" />
       <item itemvalue="Python.Unnamed" />
-      <item itemvalue="Python.modulos_externos" />
+      <item itemvalue="Python.Exercici_20" />
+      <item itemvalue="Python.Exercicio_16 (1)" />
+      <item itemvalue="Python.Exercicio_17 (1)" />
+      <item itemvalue="Python.Exercicio_18 (1)" />
+      <item itemvalue="Python.Exercicio_19 (1)" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.Exercício 14" />
-        <item itemvalue="Python.Exercício 13" />
-        <item itemvalue="Python.modulos_externos" />
-        <item itemvalue="Python.Len, Abs, Sum e Round" />
-        <item itemvalue="Python.Dicionários" />
+        <item itemvalue="Python.Exercicio_19 (1)" />
+        <item itemvalue="Python.Exercicio_18 (1)" />
+        <item itemvalue="Python.Exercicio_17 (1)" />
+        <item itemvalue="Python.Exercicio_16 (1)" />
+        <item itemvalue="Python.Exercici_20" />
       </list>
     </recent_temporary>
   </component>
@@ -208,7 +219,14 @@
       <option name="project" value="LOCAL" />
       <updated>1638919899014</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Renamed">
+      <created>1638983696452</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1638983696452</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -226,6 +244,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Atualizando os Dados" />
     <MESSAGE value="UP=&gt; Estudo em Python" />
-    <option name="LAST_COMMIT_MESSAGE" value="UP=&gt; Estudo em Python" />
+    <MESSAGE value="Renamed" />
+    <option name="LAST_COMMIT_MESSAGE" value="Renamed" />
   </component>
 </project>
