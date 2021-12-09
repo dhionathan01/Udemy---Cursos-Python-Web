@@ -1,0 +1,22 @@
+<html lang="pt">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Eventos - Teclado</title>
+    
+    <script>
+        function acao1() {
+            alert('evento disparado')
+        }
+    </script>
+</head>
+<body>
+    <!--
+    onkeydown = Acionado quando uma tecla é apertada
+    onkeypress = Acionado quando uma tecla é apertada (somente acionado se a tecla for um caracter, ou seja teclas como ctrl, alt, shift etc... não acontecem)
+    onkeyup = Acionada quando uma tecla é liberada 
+    -->
+    <input onkeyup="acao1()" type="text">
+</body>
+</html>

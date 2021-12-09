@@ -1,0 +1,27 @@
+<html lang="pt">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Eventos - Formulários</title>
+    
+    <script>
+        
+    </script>
+</head>
+<body>
+   <!--
+    onfocus = Acionado quando o campo recebe o foco do curso do mouse (quando clikamos de forma que o campo seja selecionado)
+    onblur = Acionado quando o campo perde o foco do curso do mouse
+    onchange = Acionado quando o estado do elemento é modificado (EX: Quando selecionamos uma outra opção no campo de select)
+    -->
+    <input onfocus="console.log('Focado')" onblur="console.log('Desfocado')" type="text">
+
+    <select onchange="console.log('Estado foi modificado')">
+        <option>Selecione</option>
+        <option value="1">Primeira Opção</option>
+        <option value="2">Segunda Opção</option>
+    </select>
+</body>
+
+</html>

@@ -1,0 +1,38 @@
+<html lang="pt">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Eventos - Mouse</title>
+    <script>
+        function acao1() {
+            alert('Região Crítica Recebeu um Click')
+        }
+
+        function acao2() {
+            alert('Ponteiro Entrou na Região crítica')
+        }
+
+        function acao3() {
+            alert('Ponteiro deixou a Região Crítica')
+        }
+
+        function acao4() {
+            alert('Região crítica recebeu Double Click')
+        }
+    </script>
+</head>
+<body>
+    <!-- 
+    onclick =  Acionado ao clikar
+    ondblclick = Acionado ao dar dois cliques seguidos
+    onmouseup = Acionado após o soltar o botão de clique (Se vc clikar e manter o dedo pressionado, não é acionado) 
+    -->
+    <div onclick="acao1()"
+        onmouseover="acao2()"
+        onmouseout="acao3()"
+        ondblclick="acao4()" style="background: #ccc; height: 150px; width: 150px;">
+
+    </div>
+</body>
+</html>
