@@ -2,13 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6ead7ba3-5b25-4530-b5ac-e0bf8dae02d2" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Seção 5 Estruturas Lógicas e Condicionais/Exercícios/Exercicio_21.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Seção 5 Estruturas Lógicas e Condicionais/Exercícios/Exercicio_22.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Seção 5 Estruturas Lógicas e Condicionais/Exercícios/Exercicio_23.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Seção 5 Estruturas Lógicas e Condicionais/Exercícios/Exercicio_24.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Seção 5 Estruturas Lógicas e Condicionais/Exercícios/Exercicio_25.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Seção 6 Estruturas de Repetição em Python/Exercícios/Exercicio_11.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Seção 6 Estruturas de Repetição em Python/Exercícios/Exercicio_12.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Seção 6 Estruturas de Repetição em Python/Exercícios/Exercicio_13.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Seção 6 Estruturas de Repetição em Python/Exercícios/Exercicio_14.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Seção 6 Estruturas de Repetição em Python/Exercícios/Exercicio_15.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Seção 5 Estruturas Lógicas e Condicionais/Exercícios/Exercicio_20.py" beforeDir="false" afterPath="$PROJECT_DIR$/Seção 5 Estruturas Lógicas e Condicionais/Exercícios/Exercicio_20.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -46,8 +45,8 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
-  <component name="RunManager" selected="Python.Exercicio_25">
-    <configuration name="Exercicio_21" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.Exercicio_15">
+    <configuration name="Exercicio_11" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="UC Python" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -55,11 +54,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Seção 5 Estruturas Lógicas e Condicionais/Exercícios" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Seção 6 Estruturas de Repetição em Python/Exercícios" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Seção 5 Estruturas Lógicas e Condicionais/Exercícios/Exercicio_21.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Seção 6 Estruturas de Repetição em Python/Exercícios/Exercicio_11.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -68,7 +67,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Exercicio_22" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="Exercicio_12" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="UC Python" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -76,11 +75,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Seção 5 Estruturas Lógicas e Condicionais/Exercícios" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Seção 6 Estruturas de Repetição em Python/Exercícios" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Seção 5 Estruturas Lógicas e Condicionais/Exercícios/Exercicio_22.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Seção 6 Estruturas de Repetição em Python/Exercícios/Exercicio_12.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -89,7 +88,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Exercicio_23" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="Exercicio_13" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="UC Python" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -97,11 +96,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Seção 5 Estruturas Lógicas e Condicionais/Exercícios" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Seção 6 Estruturas de Repetição em Python/Exercícios" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Seção 5 Estruturas Lógicas e Condicionais/Exercícios/Exercicio_23.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Seção 6 Estruturas de Repetição em Python/Exercícios/Exercicio_13.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -110,7 +109,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Exercicio_24" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="Exercicio_14" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="UC Python" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -118,11 +117,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Seção 5 Estruturas Lógicas e Condicionais/Exercícios" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Seção 6 Estruturas de Repetição em Python/Exercícios" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Seção 5 Estruturas Lógicas e Condicionais/Exercícios/Exercicio_24.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Seção 6 Estruturas de Repetição em Python/Exercícios/Exercicio_14.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -131,7 +130,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Exercicio_25" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="Exercicio_15" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="UC Python" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -139,11 +138,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Seção 5 Estruturas Lógicas e Condicionais/Exercícios" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Seção 6 Estruturas de Repetição em Python/Exercícios" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Seção 5 Estruturas Lógicas e Condicionais/Exercícios/Exercicio_25.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Seção 6 Estruturas de Repetição em Python/Exercícios/Exercicio_15.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -175,19 +174,19 @@
     </configuration>
     <list>
       <item itemvalue="Python.Unnamed" />
-      <item itemvalue="Python.Exercicio_21" />
-      <item itemvalue="Python.Exercicio_22" />
-      <item itemvalue="Python.Exercicio_23" />
-      <item itemvalue="Python.Exercicio_24" />
-      <item itemvalue="Python.Exercicio_25" />
+      <item itemvalue="Python.Exercicio_11" />
+      <item itemvalue="Python.Exercicio_12" />
+      <item itemvalue="Python.Exercicio_13" />
+      <item itemvalue="Python.Exercicio_14" />
+      <item itemvalue="Python.Exercicio_15" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.Exercicio_25" />
-        <item itemvalue="Python.Exercicio_24" />
-        <item itemvalue="Python.Exercicio_23" />
-        <item itemvalue="Python.Exercicio_22" />
-        <item itemvalue="Python.Exercicio_21" />
+        <item itemvalue="Python.Exercicio_15" />
+        <item itemvalue="Python.Exercicio_14" />
+        <item itemvalue="Python.Exercicio_13" />
+        <item itemvalue="Python.Exercicio_12" />
+        <item itemvalue="Python.Exercicio_11" />
       </list>
     </recent_temporary>
   </component>
@@ -228,7 +227,14 @@
       <option name="project" value="LOCAL" />
       <updated>1638995572684</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="UP=&gt; Praticando com Exercícios em Python">
+      <created>1639081217855</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1639081217855</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -236,7 +242,19 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="origin/main" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
           </value>
         </entry>
       </map>
@@ -248,6 +266,7 @@
     <MESSAGE value="UP=&gt; Estudo em Python" />
     <MESSAGE value="Renamed" />
     <MESSAGE value="UP =&gt; Exercícios Em Pyhton" />
-    <option name="LAST_COMMIT_MESSAGE" value="UP =&gt; Exercícios Em Pyhton" />
+    <MESSAGE value="UP=&gt; Praticando com Exercícios em Python" />
+    <option name="LAST_COMMIT_MESSAGE" value="UP=&gt; Praticando com Exercícios em Python" />
   </component>
 </project>
