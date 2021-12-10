@@ -1,0 +1,42 @@
+<html lang="pt">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Javascript Atividade Fixação</title>
+    <script>
+        /* 1) Crie um campo <input type="text"> e aplique os seguintes controles com base nos 
+        eventos abaixo:
+        • No evento de foco modifique o background do input para amarelo.
+        • Quando o campo perder o foco, recupere o seu respectivo valor e:
+        o Caso o conteúdo contido no campo tenha menos de 3 caracteres o mesmo 
+        deve ter seu background alterado para vermelho.
+        o Caso o conteúdo contido no campo tenha 3 caracteres ou mais o background 
+        deve ser alterado para verde */
+
+        function backgroundColorYellow(){
+            document.getElementById('valor_digitado').style.background = 'yellow'
+        }
+
+        function backgroundColorDefault() {
+            document.getElementById('valor_digitado').style.background = 'white'
+        }
+
+        function contarCaracter() {
+            var valorTotal = document.getElementById('valor_digitado').value
+            valorTotal = valorTotal.toString()
+            console.log(valorTotal.lenght)
+            console.log(valorTotal)
+
+            if (valorTotal.lenght >= 3) {
+                document.getElementById('valor_digitado').style.background = 'green'
+            }
+            
+
+        }
+    </script>
+</head>
+<body>
+    <input onblur="contarCaracter()" onfocus="backgroundColorYellow()"  id="valor_digitado" type="text">
+</body>
+</html>
