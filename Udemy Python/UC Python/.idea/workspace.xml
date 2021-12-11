@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="6ead7ba3-5b25-4530-b5ac-e0bf8dae02d2" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Seção 6 Estruturas de Repetição em Python/Exercícios/Exercicio_11.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Seção 6 Estruturas de Repetição em Python/Exercícios/Exercicio_12.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Seção 6 Estruturas de Repetição em Python/Exercícios/Exercicio_13.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Seção 6 Estruturas de Repetição em Python/Exercícios/Exercicio_14.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Seção 6 Estruturas de Repetição em Python/Exercícios/Exercicio_15.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="6ead7ba3-5b25-4530-b5ac-e0bf8dae02d2" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -234,7 +227,14 @@
       <option name="project" value="LOCAL" />
       <updated>1639081217855</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="Up=&gt; Praticando com exercícios em Python">
+      <created>1639165146844</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1639165146844</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -267,6 +267,7 @@
     <MESSAGE value="Renamed" />
     <MESSAGE value="UP =&gt; Exercícios Em Pyhton" />
     <MESSAGE value="UP=&gt; Praticando com Exercícios em Python" />
-    <option name="LAST_COMMIT_MESSAGE" value="UP=&gt; Praticando com Exercícios em Python" />
+    <MESSAGE value="Up=&gt; Praticando com exercícios em Python" />
+    <option name="LAST_COMMIT_MESSAGE" value="Up=&gt; Praticando com exercícios em Python" />
   </component>
 </project>
