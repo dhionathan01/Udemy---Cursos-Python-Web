@@ -1,7 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="6ead7ba3-5b25-4530-b5ac-e0bf8dae02d2" name="Default Changelist" comment="" />
+    <list default="true" id="6ead7ba3-5b25-4530-b5ac-e0bf8dae02d2" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/Seção 6 Estruturas de Repetição em Python/Exercícios/Exercicio_16.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Seção 6 Estruturas de Repetição em Python/Exercícios/Exercicio_17.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Seção 6 Estruturas de Repetição em Python/Exercícios/Exercicio_18.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Seção 6 Estruturas de Repetição em Python/Exercícios/Exercicio_19.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Seção 6 Estruturas de Repetição em Python/Exercícios/Exercicio_20.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Seção 6 Estruturas de Repetição em Python/Exercícios/Exercicio_15.py" beforeDir="false" afterPath="$PROJECT_DIR$/Seção 6 Estruturas de Repetição em Python/Exercícios/Exercicio_15.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -38,8 +46,8 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
-  <component name="RunManager" selected="Python.Exercicio_15">
-    <configuration name="Exercicio_11" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.Exercicio_20">
+    <configuration name="Exercicio_16" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="UC Python" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -51,7 +59,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Seção 6 Estruturas de Repetição em Python/Exercícios/Exercicio_11.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Seção 6 Estruturas de Repetição em Python/Exercícios/Exercicio_16.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -60,7 +68,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Exercicio_12" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="Exercicio_17" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="UC Python" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -72,7 +80,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Seção 6 Estruturas de Repetição em Python/Exercícios/Exercicio_12.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Seção 6 Estruturas de Repetição em Python/Exercícios/Exercicio_17.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -81,7 +89,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Exercicio_13" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="Exercicio_18" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="UC Python" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -93,7 +101,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Seção 6 Estruturas de Repetição em Python/Exercícios/Exercicio_13.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Seção 6 Estruturas de Repetição em Python/Exercícios/Exercicio_18.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -102,7 +110,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Exercicio_14" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="Exercicio_19" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="UC Python" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -114,7 +122,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Seção 6 Estruturas de Repetição em Python/Exercícios/Exercicio_14.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Seção 6 Estruturas de Repetição em Python/Exercícios/Exercicio_19.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -123,7 +131,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Exercicio_15" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="Exercicio_20" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="UC Python" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -135,7 +143,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Seção 6 Estruturas de Repetição em Python/Exercícios/Exercicio_15.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Seção 6 Estruturas de Repetição em Python/Exercícios/Exercicio_20.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -167,19 +175,19 @@
     </configuration>
     <list>
       <item itemvalue="Python.Unnamed" />
-      <item itemvalue="Python.Exercicio_11" />
-      <item itemvalue="Python.Exercicio_12" />
-      <item itemvalue="Python.Exercicio_13" />
-      <item itemvalue="Python.Exercicio_14" />
-      <item itemvalue="Python.Exercicio_15" />
+      <item itemvalue="Python.Exercicio_16" />
+      <item itemvalue="Python.Exercicio_17" />
+      <item itemvalue="Python.Exercicio_18" />
+      <item itemvalue="Python.Exercicio_19" />
+      <item itemvalue="Python.Exercicio_20" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.Exercicio_15" />
-        <item itemvalue="Python.Exercicio_14" />
-        <item itemvalue="Python.Exercicio_13" />
-        <item itemvalue="Python.Exercicio_12" />
-        <item itemvalue="Python.Exercicio_11" />
+        <item itemvalue="Python.Exercicio_20" />
+        <item itemvalue="Python.Exercicio_19" />
+        <item itemvalue="Python.Exercicio_18" />
+        <item itemvalue="Python.Exercicio_17" />
+        <item itemvalue="Python.Exercicio_16" />
       </list>
     </recent_temporary>
   </component>
