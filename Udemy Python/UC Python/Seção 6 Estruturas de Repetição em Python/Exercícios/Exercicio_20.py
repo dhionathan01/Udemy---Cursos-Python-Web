@@ -15,4 +15,3 @@ entrada_de_dados -= 1   # Temos que remover o número 100 da contagem
 qtd_numeros_pares_inseridos -= 1    # Temos que remover o número 100 da contagem
 print(f'Quantidade de valores inseridos: {entrada_de_dados}\n'
       f'Quantidade de valores pares detectados: {qtd_numeros_pares_inseridos}')
-
