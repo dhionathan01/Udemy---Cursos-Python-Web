@@ -1,6 +1,6 @@
 """
 Faça um programa que receba do usuário um vetor com 100 posições. Em seguida deverá ser impresso
-o maior  eo mneor elemento do vetor.
+o maior  eo menor elemento do vetor.
 """
 import random
 vetor = []
