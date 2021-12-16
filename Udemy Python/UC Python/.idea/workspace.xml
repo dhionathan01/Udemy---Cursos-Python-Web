@@ -1,15 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="6ead7ba3-5b25-4530-b5ac-e0bf8dae02d2" name="Default Changelist" comment="Atualização">
-      <change afterPath="$PROJECT_DIR$/Seção 7 Coleções Python/Exercícios/Exercicio_17.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../.idea/git2021.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../../.idea/git2021.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="6ead7ba3-5b25-4530-b5ac-e0bf8dae02d2" name="Default Changelist" comment="Ajuste de Variáveis de ambiente">
+      <change afterPath="$PROJECT_DIR$/Seção 7 Coleções Python/Exercícios/Exercicio_18.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Seção 7 Coleções Python/Exercícios/Exercicio_03.py" beforeDir="false" afterPath="$PROJECT_DIR$/Seção 7 Coleções Python/Exercícios/Exercicio_03.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Seção 7 Coleções Python/Exercícios/Exercicio_06.py" beforeDir="false" afterPath="$PROJECT_DIR$/Seção 7 Coleções Python/Exercícios/Exercicio_06.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Seção 7 Coleções Python/Exercícios/Exercicio_16.py" beforeDir="false" afterPath="$PROJECT_DIR$/Seção 7 Coleções Python/Exercícios/Exercicio_16.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Seção 7 Coleções Python/Exercícios/Exercicio_17.py" beforeDir="false" afterPath="$PROJECT_DIR$/Seção 7 Coleções Python/Exercícios/Exercicio_17.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -50,7 +48,7 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
-  <component name="RunManager" selected="Python.Exercicio_01">
+  <component name="RunManager" selected="Python.Exercicio_18 (1)">
     <configuration name="Exercicio_01" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="UC Python" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -72,7 +70,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Exercicio_17" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="Exercicio_17 (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="UC Python" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -80,11 +78,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Seção 6 Estruturas de Repetição em Python/Exercícios" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Seção 7 Coleções Python/Exercícios" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Seção 6 Estruturas de Repetição em Python/Exercícios/Exercicio_17.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Seção 7 Coleções Python/Exercícios/Exercicio_17.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -93,7 +91,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Exercicio_18" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="Exercicio_18 (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="UC Python" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -101,11 +99,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Seção 6 Estruturas de Repetição em Python/Exercícios" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Seção 7 Coleções Python/Exercícios" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Seção 6 Estruturas de Repetição em Python/Exercícios/Exercicio_18.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Seção 7 Coleções Python/Exercícios/Exercicio_18.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -179,19 +177,19 @@
     </configuration>
     <list>
       <item itemvalue="Python.Unnamed" />
-      <item itemvalue="Python.Exercicio_17" />
-      <item itemvalue="Python.Exercicio_18" />
       <item itemvalue="Python.Exercicio_19" />
       <item itemvalue="Python.Exercicio_20" />
       <item itemvalue="Python.Exercicio_01" />
+      <item itemvalue="Python.Exercicio_17 (1)" />
+      <item itemvalue="Python.Exercicio_18 (1)" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.Exercicio_18 (1)" />
+        <item itemvalue="Python.Exercicio_17 (1)" />
         <item itemvalue="Python.Exercicio_01" />
         <item itemvalue="Python.Exercicio_20" />
         <item itemvalue="Python.Exercicio_19" />
-        <item itemvalue="Python.Exercicio_18" />
-        <item itemvalue="Python.Exercicio_17" />
       </list>
     </recent_temporary>
   </component>
@@ -253,7 +251,21 @@
       <option name="project" value="LOCAL" />
       <updated>1639493308707</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="Arrumando enunciados">
+      <created>1639611053405</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1639611053406</updated>
+    </task>
+    <task id="LOCAL-00009" summary="Ajuste de Variáveis de ambiente">
+      <created>1639611241666</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1639611241666</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -278,6 +290,21 @@
         </entry>
       </map>
     </option>
+    <option name="RECENT_FILTERS">
+      <map>
+        <entry key="Branch">
+          <value>
+            <list>
+              <RecentGroup>
+                <option name="FILTER_VALUES">
+                  <option value="HEAD" />
+                </option>
+              </RecentGroup>
+            </list>
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Atualizando os Dados" />
@@ -287,6 +314,8 @@
     <MESSAGE value="UP=&gt; Praticando com Exercícios em Python" />
     <MESSAGE value="Up=&gt; Praticando com exercícios em Python" />
     <MESSAGE value="Atualização" />
-    <option name="LAST_COMMIT_MESSAGE" value="Atualização" />
+    <MESSAGE value="Arrumando enunciados" />
+    <MESSAGE value="Ajuste de Variáveis de ambiente" />
+    <option name="LAST_COMMIT_MESSAGE" value="Ajuste de Variáveis de ambiente" />
   </component>
 </project>
