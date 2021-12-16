@@ -4,10 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6ead7ba3-5b25-4530-b5ac-e0bf8dae02d2" name="Default Changelist" comment="Ajuste de Variáveis de ambiente">
-      <change afterPath="$PROJECT_DIR$/Seção 7 Coleções Python/Exercícios/Exercicio_18.py" afterDir="false" />
+    <list default="true" id="6ead7ba3-5b25-4530-b5ac-e0bf8dae02d2" name="Default Changelist" comment="UP =&gt; Praticando com Exercícios em Python">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Seção 7 Coleções Python/Exercícios/Exercicio_17.py" beforeDir="false" afterPath="$PROJECT_DIR$/Seção 7 Coleções Python/Exercícios/Exercicio_17.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -176,12 +174,12 @@
       <method v="2" />
     </configuration>
     <list>
-      <item itemvalue="Python.Unnamed" />
-      <item itemvalue="Python.Exercicio_19" />
-      <item itemvalue="Python.Exercicio_20" />
       <item itemvalue="Python.Exercicio_01" />
       <item itemvalue="Python.Exercicio_17 (1)" />
       <item itemvalue="Python.Exercicio_18 (1)" />
+      <item itemvalue="Python.Exercicio_19" />
+      <item itemvalue="Python.Exercicio_20" />
+      <item itemvalue="Python.Unnamed" />
     </list>
     <recent_temporary>
       <list>
@@ -265,7 +263,21 @@
       <option name="project" value="LOCAL" />
       <updated>1639611241666</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="UP =&gt; Praticando com Exercícios em Python">
+      <created>1639614091220</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1639614091220</updated>
+    </task>
+    <task id="LOCAL-00011" summary="UP =&gt; Praticando com Exercícios em Python">
+      <created>1639614123973</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1639614123973</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -316,6 +328,7 @@
     <MESSAGE value="Atualização" />
     <MESSAGE value="Arrumando enunciados" />
     <MESSAGE value="Ajuste de Variáveis de ambiente" />
-    <option name="LAST_COMMIT_MESSAGE" value="Ajuste de Variáveis de ambiente" />
+    <MESSAGE value="UP =&gt; Praticando com Exercícios em Python" />
+    <option name="LAST_COMMIT_MESSAGE" value="UP =&gt; Praticando com Exercícios em Python" />
   </component>
 </project>
