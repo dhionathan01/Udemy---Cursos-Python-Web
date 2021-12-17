@@ -4,13 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6ead7ba3-5b25-4530-b5ac-e0bf8dae02d2" name="Default Changelist" comment="UP =&gt; Praticando com Exercícios em Python">
-      <change afterPath="$PROJECT_DIR$/Seção 7 Coleções Python/Exercícios/Exercicio_19.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Seção 7 Coleções Python/Exercícios/Exercicio_20.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Seção 8 - Funções em Python/Exercícios/Exercicio_02.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Seção 8 - Funções em Python/Exercícios/Exercicio_03.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="6ead7ba3-5b25-4530-b5ac-e0bf8dae02d2" name="Default Changelist" comment="UP =&gt; Praticando com Exercícios em Python" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -50,7 +44,7 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
-  <component name="RunManager" selected="Python.Exercicio_02">
+  <component name="RunManager" selected="Python.Exercicio_03">
     <configuration name="Exercicio_02" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="UC Python" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -64,6 +58,27 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="SCRIPT_NAME" value="C:\Users\dhion\Documents\Git\Udemy---Cursos-Python-Web\Udemy Python\UC Python\Seção 8 - Funções em Python\Exercícios\Exercicio_02.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Exercicio_03" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="UC Python" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Seção 8 - Funções em Python/Exercícios" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Seção 8 - Funções em Python/Exercícios/Exercicio_03.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -135,27 +150,6 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Exercicio_20" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="UC Python" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="C:\Users\dhion\OneDrive\Documentos\GitHub\venv\Scripts\python.exe" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Seção 6 Estruturas de Repetição em Python/Exercícios" />
-      <option name="IS_MODULE_SDK" value="false" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Seção 6 Estruturas de Repetição em Python/Exercícios/Exercicio_20.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
     <configuration name="Unnamed" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
       <module name="UC Python" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -179,19 +173,19 @@
     </configuration>
     <list>
       <item itemvalue="Python.Unnamed" />
-      <item itemvalue="Python.Exercicio_20" />
       <item itemvalue="Python.Exercicio_16" />
       <item itemvalue="Python.Exercicio_19" />
       <item itemvalue="Python.Exercicio_20 (1)" />
       <item itemvalue="Python.Exercicio_02" />
+      <item itemvalue="Python.Exercicio_03" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.Exercicio_03" />
         <item itemvalue="Python.Exercicio_02" />
         <item itemvalue="Python.Exercicio_20 (1)" />
         <item itemvalue="Python.Exercicio_19" />
         <item itemvalue="Python.Exercicio_16" />
-        <item itemvalue="Python.Exercicio_20" />
       </list>
     </recent_temporary>
   </component>
@@ -281,7 +275,14 @@
       <option name="project" value="LOCAL" />
       <updated>1639614123973</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="UP =&gt; Praticando com Exercícios em Python">
+      <created>1639680424431</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1639680424431</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">

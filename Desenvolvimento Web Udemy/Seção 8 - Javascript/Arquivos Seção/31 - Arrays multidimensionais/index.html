@@ -1,0 +1,26 @@
+<html lang="pt">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>JavaScript - Arrays multidimensionais</title>
+    <script>
+        var lista_coisas = Array()
+        // Incorporando uma listra dentro de outra:
+        lista_coisas['frutas'] = Array('Banana', 'Maçã', 'Morango', 'Uva') 
+        // Criando outra dimensão dentro de um arrays:
+        lista_coisas['pessoas'] = []
+        // Atribuindo valores a outra dimensão de um Array
+        lista_coisas['pessoas']['a'] = 'João'
+        lista_coisas['pessoas']['b'] = 'José'
+        lista_coisas['pessoas']['c'] = 'Maria'
+        // Obs: A função length só funciona de forma correta quando os indíces são interios sequências partindo de 0
+        console.log(lista_coisas)
+        // Acessando um determinado valor dentro de um array multidimensional
+        document.write(lista_coisas['frutas'][3])
+    </script>
+</head>
+<body>
+    
+</body>
+</html>
