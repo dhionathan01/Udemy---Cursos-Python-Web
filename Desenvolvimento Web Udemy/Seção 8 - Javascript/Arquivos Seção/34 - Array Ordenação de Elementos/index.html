@@ -1,0 +1,37 @@
+<html lang="pt">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>JavaScript - Array Ordenação de elementos</title>
+    <script>
+        var lista_frutas = []
+        lista_frutas[0] = 'Maçã'
+        lista_frutas[1] = 'Uva'
+        lista_frutas[2] = 'Banana'
+        lista_frutas[3] = 'Morango'
+        console.log(lista_frutas)
+        // função .sort() ordena os elementos. OBS: A ordenação só é feita corretamente para arrays alfanumericos
+        console.log(lista_frutas.sort())
+        // Se usarmos a função sort em uma lista de valores númericos a exibição será incorreta:
+        lista_numeros = []
+        lista_numeros[0] = 12
+        lista_numeros[1] = 19
+        lista_numeros[2] = 40
+        lista_numeros[3] = 3
+        lista_numeros[4] = 7
+        lista_numeros[5] = 1
+
+        console.log(lista_numeros.sort())
+        // Para ordenar valores números precisamos da seguinte função:
+        function ordenaNumeros(a, b){
+            return a - b
+        }
+        console.log(lista_numeros.sort(ordenaNumeros))
+        
+    </script>
+</head>
+<body>
+    
+</body>
+</html>

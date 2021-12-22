@@ -1,0 +1,45 @@
+<html lang="pt">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>JavaScript -  Atividade Fixação Array</title>
+</head>
+<script>
+
+    function adicionarObjeto(){
+        newItem = document.getElementById('objeto').value
+        console.log(newItem)
+        if (newItem != ''){
+            if (objetos.indexOf(newItem) == -1){
+                objetos.push(newItem)
+                console.log('Objeto Adicionado com sucesso')
+                console.log(objetos)
+                document.getElementById('objeto').value = ''
+            }
+            else{
+                console.log('Objeto já foi adicionado')
+            }
+        }
+        else{
+            console.log('Informe um valor válido')
+        }
+    }
+
+    function ordenarListaDeObjetos(){
+        objetos = objetos.sort()
+        console.log(objetos)
+    }
+
+    var objetos = new Array('Cadeira', 'Impressora', 'Garfo')
+    console.log(objetos)
+
+
+
+</script>
+<body>
+    <input type="text" name="objetos" id="objeto">
+    <button onclick="adicionarObjeto()">Adicionar</button>
+    <button onclick="ordenarListaDeObjetos()">Ordenar</button>
+</body>
+</html>
