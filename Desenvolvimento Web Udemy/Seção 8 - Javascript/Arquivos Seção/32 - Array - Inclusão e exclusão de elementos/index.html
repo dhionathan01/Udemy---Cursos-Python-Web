@@ -1,0 +1,43 @@
+<html lang="pt">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>JavaScript - Array Inclusão e Exclusão de elementos</title>
+    <script>
+        var lista_frutas = new Array()
+        lista_frutas[0] = 'Banana'
+        lista_frutas[1] = 'Maçã'
+        console.log(lista_frutas)
+        //incluir elementos no final do array
+        lista_frutas.push('Uva')
+        console.log(lista_frutas)
+
+        //incluir elementos no início do array
+        lista_frutas.unshift('Morango')
+        console.log(lista_frutas)
+
+        //excluir elemento do final do array
+        lista_frutas.pop()
+        console.log(lista_frutas)
+
+        //excluir elemento do início do array
+        lista_frutas.shift()
+        console.log(lista_frutas)
+
+        // Array multidimensional
+        lista_coisa = []
+        lista_coisa['frutas'] = new Array()
+        lista_coisa['pessoas'] = []
+        // Incluindo elementos no Array multidimensional
+        lista_coisa['frutas'].push('Banana', 'Maçã', 'Uva')
+        lista_coisa['pessoas'].push('Jorgin', 'Wander', 'Wedison')
+        console.log(lista_coisa)
+        console.log(lista_coisa['frutas'])
+        console.log(lista_coisa['pessoas'])
+    </script>
+</head>
+<body>
+    
+</body>
+</html>
