@@ -5,13 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="6ead7ba3-5b25-4530-b5ac-e0bf8dae02d2" name="Default Changelist" comment="UP =&gt; Praticando com Exercícios em Python">
-      <change afterPath="$PROJECT_DIR$/Seção 8 - Funções em Python/Exercícios/Exercicio_06.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Seção 8 - Funções em Python/Exercícios/Exercicio_07.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Seção 8 - Funções em Python/Exercícios/Exercicio_08.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Seção 8 - Funções em Python/Exercícios/Exercicio_09.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Seção 8 - Funções em Python/Exercícios/Exercicio_10.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Seção 8 - Funções em Python/Exercícios/Exercicio_11.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Seção 8 - Funções em Python/kwargs.py" beforeDir="false" afterPath="$PROJECT_DIR$/Seção 8 - Funções em Python/kwargs.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -52,28 +47,7 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
-  <component name="RunManager" selected="Python.Exercicio_10">
-    <configuration name="Exercicio_06" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="UC Python" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Seção 8 - Funções em Python/Exercícios" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Seção 8 - Funções em Python/Exercícios/Exercicio_06.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
+  <component name="RunManager" selected="Python.Exercicio_11">
     <configuration name="Exercicio_07" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="UC Python" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -158,6 +132,27 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="Exercicio_11" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="UC Python" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Seção 8 - Funções em Python/Exercícios" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Seção 8 - Funções em Python/Exercícios/Exercicio_11.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="Unnamed" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
       <module name="UC Python" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -181,19 +176,19 @@
     </configuration>
     <list>
       <item itemvalue="Python.Unnamed" />
-      <item itemvalue="Python.Exercicio_06" />
       <item itemvalue="Python.Exercicio_07" />
       <item itemvalue="Python.Exercicio_08" />
       <item itemvalue="Python.Exercicio_09" />
       <item itemvalue="Python.Exercicio_10" />
+      <item itemvalue="Python.Exercicio_11" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.Exercicio_11" />
         <item itemvalue="Python.Exercicio_10" />
         <item itemvalue="Python.Exercicio_09" />
         <item itemvalue="Python.Exercicio_08" />
         <item itemvalue="Python.Exercicio_07" />
-        <item itemvalue="Python.Exercicio_06" />
       </list>
     </recent_temporary>
   </component>
@@ -311,7 +306,14 @@
       <option name="project" value="LOCAL" />
       <updated>1640202634654</updated>
     </task>
-    <option name="localTasksCounter" value="16" />
+    <task id="LOCAL-00016" summary="UP =&gt; Praticando com Exercícios em Python">
+      <created>1640627949669</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1640627949669</updated>
+    </task>
+    <option name="localTasksCounter" value="17" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
