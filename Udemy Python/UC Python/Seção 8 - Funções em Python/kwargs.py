@@ -1,9 +1,9 @@
 """
 Entedendo o **kwargs
 
-Poderiamos chamar este parâmetro de qualquer coisa por exmeplo **xis, mas por conveção chamamos de **kwargs
-Este é  só mais um parâmetro, mas diferente do *args que coloca os valores extras em uma tupla, o **kwargs exige que
-utilizemos parâmetros nomeados, e transforma esses parâmetros extras em um dicionário.
+Poderiamos chamar este parâmetro de qualquer coisa, por exemplo **xis, mas por conveção chamamos de **kwargs
+Este é só mais um parâmetro, mas diferente do *args que coloca os valores extras em uma tupla, o **kwargs exige que
+utilizemos parâmetros nomeados, e transforma esses parâmetros extras num dicionário.
 """
 
 # Exemplo
