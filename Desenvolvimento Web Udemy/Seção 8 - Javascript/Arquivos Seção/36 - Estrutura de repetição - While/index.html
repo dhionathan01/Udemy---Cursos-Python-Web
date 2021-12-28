@@ -1,0 +1,34 @@
+<html lang="pt">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>JS - Estruturas de repetição - While</title>
+    <script>
+        // OBS: Anotação na aula 207 - Rever
+        var x = 1
+        // True
+        document.write('início' + '<br>')
+        while(x<=10){
+            //códigos
+            document.write(x + '<br>')
+             if(x == 5){
+                // Instrução break interrompe o laço de repetição completamente
+                break
+            }
+
+           /*  if(x == 5){
+                // Instrução continue interrompe somente esse passo e torna a verificar novamente
+                continue
+                // Em uma situação que o contador está depois da opção continue poderá causar um loop infinito como apresentado agora
+            }  */
+           
+            x++
+        }
+        document.write('fim' + '<br>')
+    </script>
+</head>
+<body>
+    
+</body>
+</html>
