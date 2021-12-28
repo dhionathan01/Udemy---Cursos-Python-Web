@@ -5,7 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="6ead7ba3-5b25-4530-b5ac-e0bf8dae02d2" name="Default Changelist" comment="UP =&gt; Praticando com Exercícios em Python">
-      <change afterPath="$PROJECT_DIR$/Seção 8 - Funções em Python/Exercícios/Exercicio_12.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Seção 8 - Funções em Python/Exercícios/Exercicio_13.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -45,7 +45,12 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/Seção 8 - Funções em Python/broken-head" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\dhion\Documents\Git\Udemy---Cursos-Python-Web\Udemy Python\UC Python\Seção 8 - Funções em Python\broken-head" />
+    </key>
   </component>
   <component name="RunManager" selected="Python.Exercicio_12">
     <configuration name="Exercicio_12" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
@@ -334,7 +339,14 @@
       <option name="project" value="LOCAL" />
       <updated>1640717040253</updated>
     </task>
-    <option name="localTasksCounter" value="20" />
+    <task id="LOCAL-00020" summary="UP =&gt; Praticando com Exercícios em Python">
+      <created>1640718386695</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1640718386695</updated>
+    </task>
+    <option name="localTasksCounter" value="21" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
