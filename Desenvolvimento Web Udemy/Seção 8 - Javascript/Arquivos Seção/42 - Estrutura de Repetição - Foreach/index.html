@@ -1,0 +1,34 @@
+<html lang="pt">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>JS - Foreach</title>
+    <script>
+        var listaFuncionarios = ['Viviane', 'Rosângela', 'Miguel', 'Lucas', 'Fernanda']
+        console.log(listaFuncionarios)
+        document.write(listaFuncionarios[3])
+        listaFuncionarios.forEach(function(valor, indice, array){
+            // lógica
+            console.log('indice: ' + indice + ' Valor: ' + valor)
+            //Quando o valor for igual a lucas:
+            if (valor == 'Lucas'){
+                //pegue o array com esse índice, e modifique o valor para ' Um novo valor'
+                array[indice] = 'Um novo valor'
+            }
+        })
+
+        console.log(listaFuncionarios)
+        document.write('<br>' + listaFuncionarios[3])
+
+        //Recuperando somente os valores
+        listaFuncionarios.forEach(function(valor){
+            console.log(valor)
+        })
+
+    </script>
+</head>
+<body>
+    
+</body>
+</html>
