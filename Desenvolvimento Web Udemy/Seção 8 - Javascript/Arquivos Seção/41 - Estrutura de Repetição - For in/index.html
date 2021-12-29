@@ -1,0 +1,37 @@
+<html lang="pt">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>JS- Estrutura de Repetição For in </title>
+    <script>
+
+        var listaConvidados = ['Jorge', 'Jamilton', 'José', 'Ana', 'Maria']
+        console.log(listaConvidados)
+        //Semelhante a for do python, porém invés de recuperar o valor, recupera os índices. útil quando utilizado em situações que o índice não é sequencial
+        for(var x in listaConvidados){
+            console.log(x)
+        }
+        for(var x in listaConvidados){
+            console.log('Índice: ' + x + ' Valor: ' + listaConvidados[x])
+        }
+        // Exemplo de índices não Sequenciais
+        console.log('Exemplo de índices não Sequenciais: ')
+        lista_no_sequencial = Array()
+        lista_no_sequencial['a'] = 'Jorge'
+        lista_no_sequencial[10] = 'Jamilton'
+        lista_no_sequencial['zebra'] = 'José'
+        lista_no_sequencial[-1] = 'Ana'
+        lista_no_sequencial[true] = 'Maria'
+
+        for(var x in lista_no_sequencial){
+            console.log('Índice: ' + x + ' Valor: ' + lista_no_sequencial[x])
+        }
+
+
+    </script>
+</head>
+<body>
+    
+</body>
+</html>
