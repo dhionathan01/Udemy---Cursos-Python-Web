@@ -5,8 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="6ead7ba3-5b25-4530-b5ac-e0bf8dae02d2" name="Default Changelist" comment="UP =&gt; Praticando com Exercícios em Python">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Seção 7 Coleções Python/Exercícios/Exercicio_23.py" beforeDir="false" afterPath="$PROJECT_DIR$/Seção 7 Coleções Python/Exercícios/Exercicio_23.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Desenvolvimento Web Udemy/Seção 8 - Javascript/Arquivos Seção/42 - Estrutura de Repetição - Foreach/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/../../Desenvolvimento Web Udemy/Seção 8 - Javascript/Arquivos Seção/42 - Estrutura de Repetição - Foreach/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -377,7 +376,14 @@
       <option name="project" value="LOCAL" />
       <updated>1640810421466</updated>
     </task>
-    <option name="localTasksCounter" value="25" />
+    <task id="LOCAL-00025" summary="UP =&gt; Praticando com Exercícios em Python">
+      <created>1640823451624</created>
+      <option name="number" value="00025" />
+      <option name="presentableId" value="LOCAL-00025" />
+      <option name="project" value="LOCAL" />
+      <updated>1640823451624</updated>
+    </task>
+    <option name="localTasksCounter" value="26" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
