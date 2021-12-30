@@ -1,0 +1,39 @@
+<html lang="pt">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>JS - Atividade de Fixação</title>
+    <script>
+        var lista_frutas = Array()
+        lista_frutas[0] = 'Banana'
+        lista_frutas[1] = 'Maçã'
+        lista_frutas[2] = 'Morango'
+        lista_frutas[3] = 'Uva'
+        console.log(lista_frutas.length)
+        
+        for(var indice_atual = 0; indice_atual < lista_frutas.length; indice_atual++){
+            document.write(lista_frutas[indice_atual] + '<br>')
+        }
+
+        // Tabuada com while:
+        document.write('Tabuada do 1 ao 10: <br>')
+        var indicador = 1
+        var multiplicador = 0
+
+        while(indicador <= 10){
+
+            while(multiplicador <= 10){
+                document.write(indicador + ' x ' + multiplicador + ' = ' + indicador * multiplicador + '<br>' )
+                multiplicador++
+            }
+            multiplicador = 0
+            indicador++
+            document.write('<hr>')
+        }
+    </script>
+</head>
+<body>
+    
+</body>
+</html>
