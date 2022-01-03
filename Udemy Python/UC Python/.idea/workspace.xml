@@ -4,9 +4,15 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6ead7ba3-5b25-4530-b5ac-e0bf8dae02d2" name="Default Changelist" comment="UP =&gt; Praticando com Exercícios em Python">
-      <change afterPath="$PROJECT_DIR$/Seção 12 - Módulos e Pacotes em Python/pacotes.py" afterDir="false" />
+    <list default="true" id="6ead7ba3-5b25-4530-b5ac-e0bf8dae02d2" name="Default Changelist" comment="UP =&gt; Material Python">
+      <change afterPath="$PROJECT_DIR$/Aprendendo_Pacotes/Subpacote/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Aprendendo_Pacotes/Subpacote/modulo_sub_1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Aprendendo_Pacotes/Subpacote/modulo_sub_2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Aprendendo_Pacotes/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Aprendendo_Pacotes/modulo_p_1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Aprendendo_Pacotes/modulo_p_2.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Seção 12 - Módulos e Pacotes em Python/pacotes.py" beforeDir="false" afterPath="$PROJECT_DIR$/Seção 12 - Módulos e Pacotes em Python/pacotes.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -55,7 +61,7 @@
       <recent name="C:\Users\dhion\Documents\Git\Udemy---Cursos-Python-Web\Udemy Python\UC Python\Seção 8 - Funções em Python\broken-head" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.Exercicio_14">
+  <component name="RunManager" selected="Python.pacotes">
     <configuration name="Exercicio_14" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="UC Python" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -69,27 +75,6 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Seção 8 - Funções em Python/Exercícios/Exercicio_14.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="Exercicio_21 (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="UC Python" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Seção 4 Variáveis e Tipos de Dados/Exercícios" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Seção 4 Variáveis e Tipos de Dados/Exercícios/Exercicio_21.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -182,21 +167,42 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="pacotes" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="UC Python" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Seção 12 - Módulos e Pacotes em Python" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Seção 12 - Módulos e Pacotes em Python/pacotes.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <list>
       <item itemvalue="Python.Unnamed" />
-      <item itemvalue="Python.Exercicio_21 (1)" />
       <item itemvalue="Python.Exercicio_26" />
       <item itemvalue="Python.Exercicio_26 (1)" />
       <item itemvalue="Python.Exercicio_31" />
       <item itemvalue="Python.Exercicio_14" />
+      <item itemvalue="Python.pacotes" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.pacotes" />
         <item itemvalue="Python.Exercicio_14" />
         <item itemvalue="Python.Exercicio_31" />
         <item itemvalue="Python.Exercicio_26 (1)" />
         <item itemvalue="Python.Exercicio_26" />
-        <item itemvalue="Python.Exercicio_21 (1)" />
       </list>
     </recent_temporary>
   </component>
@@ -391,7 +397,14 @@
       <option name="project" value="LOCAL" />
       <updated>1641235162845</updated>
     </task>
-    <option name="localTasksCounter" value="27" />
+    <task id="LOCAL-00027" summary="UP =&gt; Material Python">
+      <created>1641235753733</created>
+      <option name="number" value="00027" />
+      <option name="presentableId" value="LOCAL-00027" />
+      <option name="project" value="LOCAL" />
+      <updated>1641235753733</updated>
+    </task>
+    <option name="localTasksCounter" value="28" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -443,6 +456,7 @@
     <MESSAGE value="Arrumando enunciados" />
     <MESSAGE value="Ajuste de Variáveis de ambiente" />
     <MESSAGE value="UP =&gt; Praticando com Exercícios em Python" />
-    <option name="LAST_COMMIT_MESSAGE" value="UP =&gt; Praticando com Exercícios em Python" />
+    <MESSAGE value="UP =&gt; Material Python" />
+    <option name="LAST_COMMIT_MESSAGE" value="UP =&gt; Material Python" />
   </component>
 </project>
