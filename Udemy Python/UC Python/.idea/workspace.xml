@@ -5,14 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="6ead7ba3-5b25-4530-b5ac-e0bf8dae02d2" name="Default Changelist" comment="UP =&gt; Material Python">
-      <change afterPath="$PROJECT_DIR$/Aprendendo_Pacotes/Subpacote/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Aprendendo_Pacotes/Subpacote/modulo_sub_1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Aprendendo_Pacotes/Subpacote/modulo_sub_2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Aprendendo_Pacotes/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Aprendendo_Pacotes/modulo_p_1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Aprendendo_Pacotes/modulo_p_2.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Seção 12 - Módulos e Pacotes em Python/pacotes.py" beforeDir="false" afterPath="$PROJECT_DIR$/Seção 12 - Módulos e Pacotes em Python/pacotes.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -404,7 +397,14 @@
       <option name="project" value="LOCAL" />
       <updated>1641235753733</updated>
     </task>
-    <option name="localTasksCounter" value="28" />
+    <task id="LOCAL-00028" summary="UP =&gt; Material Python">
+      <created>1641237311245</created>
+      <option name="number" value="00028" />
+      <option name="presentableId" value="LOCAL-00028" />
+      <option name="project" value="LOCAL" />
+      <updated>1641237311245</updated>
+    </task>
+    <option name="localTasksCounter" value="29" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
