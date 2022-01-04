@@ -6,7 +6,11 @@ Faça um programa que leia um valor n inteiro e positivo e apresente o valor de 
 n = int(input('Informe o valor chave da série harmônica: '))
 contador = 1
 resultado = 0
-while contador < n:
-    resultado += 1/contador
-    contador += 1
+if n > 0:
+    while contador < n:
+        resultado += 1/contador
+        contador += 1
+else:
+    print('Valor tem de ser positivo')
+    exit()
 print(f'Valor de H({n}) equivale: {resultado}')
