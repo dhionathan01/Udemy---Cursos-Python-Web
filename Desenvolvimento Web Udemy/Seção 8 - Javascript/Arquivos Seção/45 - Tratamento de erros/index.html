@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="pt">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>JS -  Tratamento de Erros com Try, cath, trow e finally</title>
+    <script>
+        // Simulando a requesição http do acesso ao vídeo na netflix
+        var video = Array()
+        video[1] = Array()
+        video[1]['nome'] = 'FullMetal Alchemist'
+        video[1]['categoria'] = 'Anime'
+        
+        function getvideo(video){
+            try{
+            //lógica
+            //http
+            console.log(video[0]['nome'])
+            }catch(erro){
+                tratarErro(erro)
+                console.log('Agora sim podemos tratar esse erro')
+                throw new Error('Houve um erro  mas não se preocupe, estamos trabalhando nisso !!!') // Caso queirar testar o throw descomente
+            } finally{
+                console.log('Sempre passa por aqui(try / cath)')
+            }
+            console.log('A aplicação não morreu')
+        }
+
+        function tratarErro(e){
+            //lógica para registar o erro no servidor
+            console.log(e)
+        }
+
+        getvideo(video)
+    </script>
+</head>
+<body>
+    
+</body>
+</html>
