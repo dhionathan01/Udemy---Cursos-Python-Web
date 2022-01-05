@@ -4,13 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6ead7ba3-5b25-4530-b5ac-e0bf8dae02d2" name="Default Changelist" comment="UP =&gt; Arrumando função">
-      <change afterPath="$PROJECT_DIR$/Seção 12 - Módulos e Pacotes em Python/dunder.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Seção 12 - Módulos e Pacotes em Python/function_test.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Seção 12 - Módulos e Pacotes em Python/primeiro.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Seção 12 - Módulos e Pacotes em Python/segundo.py" afterDir="false" />
+    <list default="true" id="6ead7ba3-5b25-4530-b5ac-e0bf8dae02d2" name="Default Changelist" comment="UP =&gt; Material Python">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Seção 12 - Módulos e Pacotes em Python/funcoes_com_parametro.py" beforeDir="false" afterPath="$PROJECT_DIR$/Seção 12 - Módulos e Pacotes em Python/funcoes_com_parametro.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -515,7 +510,14 @@
       <option name="project" value="LOCAL" />
       <updated>1641411220811</updated>
     </task>
-    <option name="localTasksCounter" value="44" />
+    <task id="LOCAL-00044" summary="UP =&gt; Material Python">
+      <created>1641412889259</created>
+      <option name="number" value="00044" />
+      <option name="presentableId" value="LOCAL-00044" />
+      <option name="project" value="LOCAL" />
+      <updated>1641412889259</updated>
+    </task>
+    <option name="localTasksCounter" value="45" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -572,6 +574,7 @@
     <MESSAGE value="UP =&gt; Python Praticando com Exercícios" />
     <MESSAGE value="UP =&gt; Python Praticando com Exercícios" />
     <MESSAGE value="UP =&gt; Arrumando função" />
-    <option name="LAST_COMMIT_MESSAGE" value="UP =&gt; Arrumando função" />
+    <MESSAGE value="UP =&gt; Material Python" />
+    <option name="LAST_COMMIT_MESSAGE" value="UP =&gt; Material Python" />
   </component>
 </project>
