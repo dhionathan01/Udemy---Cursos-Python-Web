@@ -107,7 +107,6 @@ print(nome_completo(sobrenome=sobrenome, nome=nome))
 print(nome_completo(sobrenome='Marques', nome='Marcia'))
 '''
 
-
 # Erro comum na utilização do return
 
 '''
@@ -129,7 +128,10 @@ def soma_impares(numeros):  # Certo
     return total
 
 
-lista = [1, 2, 3, 4, 5, 6, 7]
-print(soma_impares(lista))
-tupla = (1, 2, 3, 4, 5, 6, 7)
-print(soma_impares(tupla))
+if __name__ == '__main__':  # Corrigi o arquivo para ser um módulo
+    lista = [1, 2, 3, 4, 5, 6, 7]
+    print(soma_impares(lista))
+    tupla = (1, 2, 3, 4, 5, 6, 7)
+    print(soma_impares(tupla))
+else:
+    print('O módulo funcoes_com_parametro.py foi importado.')
