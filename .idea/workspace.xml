@@ -5,9 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="cc897e3e-5677-4fcb-aa00-1baa4ed347b4" name="Default Changelist" comment="Push">
-      <change beforePath="$PROJECT_DIR$/.idea/git2021.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/git2021.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Udemy Python/UC Python/Seção 8 - Funções em Python/Exercícios/Exercicio_19.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Udemy Python/UC Python/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Udemy Python/UC Python/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -106,9 +105,9 @@
       <method v="2" />
     </configuration>
     <list>
+      <item itemvalue="Python.Exercicio_20" />
       <item itemvalue="Python.Python" />
       <item itemvalue="Python.funcoes_com_parametro" />
-      <item itemvalue="Python.Exercicio_20" />
     </list>
     <recent_temporary>
       <list>
