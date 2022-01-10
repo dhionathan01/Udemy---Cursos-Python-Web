@@ -1,9 +1,0 @@
-/**
- * 
- */
-/**
- * @author dhion
- *
- */
-module exemplogiteclipse {
-}
