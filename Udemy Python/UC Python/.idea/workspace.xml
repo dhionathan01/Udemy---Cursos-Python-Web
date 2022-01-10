@@ -4,7 +4,360 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6ead7ba3-5b25-4530-b5ac-e0bf8dae02d2" name="Default Changelist" comment="UP =&gt; Python Praticando com Exercícios" />
+    <list default="true" id="6ead7ba3-5b25-4530-b5ac-e0bf8dae02d2" name="Default Changelist" comment="Deletando Arquivos Sem Relevância">
+      <change beforePath="$PROJECT_DIR$/../../.idea/aws.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../.idea/dictionaries/dhion.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../.idea/git2021.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../3°_Semestre_de_ADS 2021.1/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../3°_Semestre_de_ADS 2021.1/.idea/3°_Semestre_de_ADS 2021.1.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../3°_Semestre_de_ADS 2021.1/.idea/aws.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../3°_Semestre_de_ADS 2021.1/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../3°_Semestre_de_ADS 2021.1/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../3°_Semestre_de_ADS 2021.1/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../3°_Semestre_de_ADS 2021.1/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../3°_Semestre_de_ADS 2021.1/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../3°_Semestre_de_ADS 2021.1/.ipynb_checkpoints/Introdução Notebook-checkpoint.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../3°_Semestre_de_ADS 2021.1/.ipynb_checkpoints/Juputer Manipulação arquivo String Bruno-checkpoint.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../3°_Semestre_de_ADS 2021.1/.ipynb_checkpoints/Manipulação de Arquivos-checkpoint.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../3°_Semestre_de_ADS 2021.1/.ipynb_checkpoints/Manipulação de String-checkpoint.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../3°_Semestre_de_ADS 2021.1/.ipynb_checkpoints/Resumo Python Professor Ronney-checkpoint.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../3°_Semestre_de_ADS 2021.1/.ipynb_checkpoints/Tentativa 03-checkpoint.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../3°_Semestre_de_ADS 2021.1/.ipynb_checkpoints/Tentativa 04-checkpoint.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../3°_Semestre_de_ADS 2021.1/.ipynb_checkpoints/Tentativa1-checkpoint.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../3°_Semestre_de_ADS 2021.1/.ipynb_checkpoints/Untitled1-checkpoint.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../3°_Semestre_de_ADS 2021.1/AV1 All/AV1 Python Fast Dev/Departamento 1.0.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../3°_Semestre_de_ADS 2021.1/AV1 All/AV1 Python Fast Dev/Departamento.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../3°_Semestre_de_ADS 2021.1/AV1 All/AV1 Python Fast Dev/funcionario.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../3°_Semestre_de_ADS 2021.1/AV1 All/AV1 Python Fast Dev/zanova.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../3°_Semestre_de_ADS 2021.1/AV1 All/AV1 Python Fast Dev2/AcessarDados.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../3°_Semestre_de_ADS 2021.1/AV1 All/AV1 Python Fast Dev2/AcessarDisco.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../3°_Semestre_de_ADS 2021.1/AV1 All/AV1 Python Fast Dev2/Departamento.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../3°_Semestre_de_ADS 2021.1/AV1 All/AV1 Python Fast Dev2/Funcionario.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../3°_Semestre_de_ADS 2021.1/AV1 All/AV1 Python Fast Dev2/Gerente.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../3°_Semestre_de_ADS 2021.1/AV1 All/AV1 Python Fast Dev2/JSONEncoder.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../3°_Semestre_de_ADS 2021.1/AV1 All/AV1 Python Fast Dev2/departamento.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../3°_Semestre_de_ADS 2021.1/AV1 All/AV1 Python Fast Dev2/funcionario.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../3°_Semestre_de_ADS 2021.1/AV1 All/AV1 Python Fast Dev2/gerente.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../3°_Semestre_de_ADS 2021.1/AV1 All/AV1 Python Fast Dev2/main.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../3°_Semestre_de_ADS 2021.1/AV1 All/AV1 Python TEst/AcessarDados.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../3°_Semestre_de_ADS 2021.1/AV1 All/AV1 Python TEst/AcessarDisco.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../3°_Semestre_de_ADS 2021.1/AV1 All/AV1 Python TEst/Departamento.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../3°_Semestre_de_ADS 2021.1/AV1 All/AV1 Python TEst/Funcionario.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../3°_Semestre_de_ADS 2021.1/AV1 All/AV1 Python TEst/Gerente.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../3°_Semestre_de_ADS 2021.1/AV1 All/AV1 Python TEst/JSONEncoder.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../3°_Semestre_de_ADS 2021.1/AV1 All/AV1 Python TEst/departamento.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../3°_Semestre_de_ADS 2021.1/AV1 All/AV1 Python TEst/employee.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../3°_Semestre_de_ADS 2021.1/AV1 All/AV1 Python TEst/funcionario.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../3°_Semestre_de_ADS 2021.1/AV1 All/AV1 Python TEst/gerente.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../3°_Semestre_de_ADS 2021.1/AV1 All/AV1 Python TEst/main.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../3°_Semestre_de_ADS 2021.1/AV1 All/AV1/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../3°_Semestre_de_ADS 2021.1/AV1 All/AV1/.idea/AV1.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../3°_Semestre_de_ADS 2021.1/AV1 All/AV1/.idea/aws.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../3°_Semestre_de_ADS 2021.1/AV1 All/AV1/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../3°_Semestre_de_ADS 2021.1/AV1 All/AV1/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../3°_Semestre_de_ADS 2021.1/AV1 All/AV1/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../3°_Semestre_de_ADS 2021.1/AV1 All/AV1/AV1/.ipynb_checkpoints/Gabarito Primeira Parte-checkpoint.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../3°_Semestre_de_ADS 2021.1/AV1 All/AV1/AV1/.ipynb_checkpoints/Resolução Segunda Parte-checkpoint.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../3°_Semestre_de_ADS 2021.1/AV1 All/AV1/AV1/AcessoAoDisco.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../3°_Semestre_de_ADS 2021.1/AV1 All/AV1/AV1/DAO/DepartamentoDAO.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../3°_Semestre_de_ADS 2021.1/AV1 All/AV1/AV1/DAO/FuncionarioDAO.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../3°_Semestre_de_ADS 2021.1/AV1 All/AV1/AV1/DAO/GerenteDAO.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../3°_Semestre_de_ADS 2021.1/AV1 All/AV1/AV1/Models/Departamento.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../3°_Semestre_de_ADS 2021.1/AV1 All/AV1/AV1/Models/Funcionario.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../3°_Semestre_de_ADS 2021.1/AV1 All/AV1/AV1/Models/Gerente.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../3°_Semestre_de_ADS 2021.1/AV1 All/AV1/AV1/Resolução Segunda Parte.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../3°_Semestre_de_ADS 2021.1/AV1 All/AV1/AV1/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../3°_Semestre_de_ADS 2021.1/AV1 Python Fast Dev2.rar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../3°_Semestre_de_ADS 2021.1/AV2 Python Django Dhionathan Lanzoni Jobim 202001237331.rar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../3°_Semestre_de_ADS 2021.1/AV2 Python Django Dhionathan Lanzoni Jobim 202001237331/AV2 Python Django/ADS_JF/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../3°_Semestre_de_ADS 2021.1/AV2 Python Django Dhionathan Lanzoni Jobim 202001237331/AV2 Python Django/ADS_JF/.idea/ADS_JF.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../3°_Semestre_de_ADS 2021.1/AV2 Python Django Dhionathan Lanzoni Jobim 202001237331/AV2 Python Django/ADS_JF/.idea/aws.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../3°_Semestre_de_ADS 2021.1/AV2 Python Django Dhionathan Lanzoni Jobim 202001237331/AV2 Python Django/ADS_JF/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../3°_Semestre_de_ADS 2021.1/AV2 Python Django Dhionathan Lanzoni Jobim 202001237331/AV2 Python Django/ADS_JF/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../3°_Semestre_de_ADS 2021.1/AV2 Python Django Dhionathan Lanzoni Jobim 202001237331/AV2 Python Django/ADS_JF/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../3°_Semestre_de_ADS 2021.1/AV2 Python Django Dhionathan Lanzoni Jobim 202001237331/AV2 Python Django/ADS_JF/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../3°_Semestre_de_ADS 2021.1/AV2 Python Django Dhionathan Lanzoni Jobim 202001237331/AV2 Python Django/ADS_JF/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../3°_Semestre_de_ADS 2021.1/AV2 Python Django Dhionathan Lanzoni Jobim 202001237331/AV2 Python Django/ADS_JF/ADS_JF/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../3°_Semestre_de_ADS 2021.1/AV2 Python Django Dhionathan Lanzoni Jobim 202001237331/AV2 Python Django/ADS_JF/ADS_JF/asgi.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../3°_Semestre_de_ADS 2021.1/AV2 Python Django Dhionathan Lanzoni Jobim 202001237331/AV2 Python Django/ADS_JF/ADS_JF/settings.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../3°_Semestre_de_ADS 2021.1/AV2 Python Django Dhionathan Lanzoni Jobim 202001237331/AV2 Python Django/ADS_JF/ADS_JF/urls.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../3°_Semestre_de_ADS 2021.1/AV2 Python Django Dhionathan Lanzoni Jobim 202001237331/AV2 Python Django/ADS_JF/ADS_JF/wsgi.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../3°_Semestre_de_ADS 2021.1/AV2 Python Django Dhionathan Lanzoni Jobim 202001237331/AV2 Python Django/ADS_JF/Dhionathan/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../3°_Semestre_de_ADS 2021.1/AV2 Python Django Dhionathan Lanzoni Jobim 202001237331/AV2 Python Django/ADS_JF/Dhionathan/admin.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../3°_Semestre_de_ADS 2021.1/AV2 Python Django Dhionathan Lanzoni Jobim 202001237331/AV2 Python Django/ADS_JF/Dhionathan/apps.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../3°_Semestre_de_ADS 2021.1/AV2 Python Django Dhionathan Lanzoni Jobim 202001237331/AV2 Python Django/ADS_JF/Dhionathan/migrations/0001_initial.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../3°_Semestre_de_ADS 2021.1/AV2 Python Django Dhionathan Lanzoni Jobim 202001237331/AV2 Python Django/ADS_JF/Dhionathan/migrations/0002_auto_20210610_1319.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../3°_Semestre_de_ADS 2021.1/AV2 Python Django Dhionathan Lanzoni Jobim 202001237331/AV2 Python Django/ADS_JF/Dhionathan/migrations/0003_alter_disciplina_periodo.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../3°_Semestre_de_ADS 2021.1/AV2 Python Django Dhionathan Lanzoni Jobim 202001237331/AV2 Python Django/ADS_JF/Dhionathan/migrations/0004_auto_20210610_1355.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../3°_Semestre_de_ADS 2021.1/AV2 Python Django Dhionathan Lanzoni Jobim 202001237331/AV2 Python Django/ADS_JF/Dhionathan/migrations/0005_alter_avaliacao_data.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../3°_Semestre_de_ADS 2021.1/AV2 Python Django Dhionathan Lanzoni Jobim 202001237331/AV2 Python Django/ADS_JF/Dhionathan/migrations/0006_alter_avaliacao_nota.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../3°_Semestre_de_ADS 2021.1/AV2 Python Django Dhionathan Lanzoni Jobim 202001237331/AV2 Python Django/ADS_JF/Dhionathan/migrations/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../3°_Semestre_de_ADS 2021.1/AV2 Python Django Dhionathan Lanzoni Jobim 202001237331/AV2 Python Django/ADS_JF/Dhionathan/models.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../3°_Semestre_de_ADS 2021.1/AV2 Python Django Dhionathan Lanzoni Jobim 202001237331/AV2 Python Django/ADS_JF/Dhionathan/models/Avaliacao.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../3°_Semestre_de_ADS 2021.1/AV2 Python Django Dhionathan Lanzoni Jobim 202001237331/AV2 Python Django/ADS_JF/Dhionathan/models/Disciplina.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../3°_Semestre_de_ADS 2021.1/AV2 Python Django Dhionathan Lanzoni Jobim 202001237331/AV2 Python Django/ADS_JF/Dhionathan/models/Professor.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../3°_Semestre_de_ADS 2021.1/AV2 Python Django Dhionathan Lanzoni Jobim 202001237331/AV2 Python Django/ADS_JF/Dhionathan/models/Tipo_de_Avaliacao.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../3°_Semestre_de_ADS 2021.1/AV2 Python Django Dhionathan Lanzoni Jobim 202001237331/AV2 Python Django/ADS_JF/Dhionathan/models/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../3°_Semestre_de_ADS 2021.1/AV2 Python Django Dhionathan Lanzoni Jobim 202001237331/AV2 Python Django/ADS_JF/Dhionathan/tests.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../3°_Semestre_de_ADS 2021.1/AV2 Python Django Dhionathan Lanzoni Jobim 202001237331/AV2 Python Django/ADS_JF/Dhionathan/views.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../3°_Semestre_de_ADS 2021.1/AV2 Python Django Dhionathan Lanzoni Jobim 202001237331/AV2 Python Django/ADS_JF/manage.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../3°_Semestre_de_ADS 2021.1/AV2 Python Django Dhionathan Lanzoni Jobim 202001237331/AV2 Python Django/Comandos.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../3°_Semestre_de_ADS 2021.1/AV2 Python Django Dhionathan Lanzoni Jobim 202001237331/AV2 Python Django/dhionathan.sql" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../3°_Semestre_de_ADS 2021.1/AV2 Python Django Dhionathan Lanzoni Jobim 202001237331/AV2 Python Django/print/print Banco Avaliacaotítulo.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../3°_Semestre_de_ADS 2021.1/AV2 Python Django Dhionathan Lanzoni Jobim 202001237331/AV2 Python Django/print/print Banco Disciplina.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../3°_Semestre_de_ADS 2021.1/AV2 Python Django Dhionathan Lanzoni Jobim 202001237331/AV2 Python Django/print/print Banco Professor.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../3°_Semestre_de_ADS 2021.1/AV2 Python Django Dhionathan Lanzoni Jobim 202001237331/AV2 Python Django/print/print Terminal 1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../3°_Semestre_de_ADS 2021.1/AV2 Python Django Dhionathan Lanzoni Jobim 202001237331/AV2 Python Django/print/print Terminal 2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../3°_Semestre_de_ADS 2021.1/AV2 Python Django Dhionathan Lanzoni Jobim 202001237331/AV2 Python Django/print/print Terminal 3.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../3°_Semestre_de_ADS 2021.1/AV2 Python Django/.idea/AV2 Python Django.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../3°_Semestre_de_ADS 2021.1/AV2 Python Django/.idea/aws.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../3°_Semestre_de_ADS 2021.1/AV2 Python Django/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../3°_Semestre_de_ADS 2021.1/AV2 Python Django/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../3°_Semestre_de_ADS 2021.1/AV2 Python Django/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../3°_Semestre_de_ADS 2021.1/AV2 Python Django/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../3°_Semestre_de_ADS 2021.1/AV2 Python Django/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../3°_Semestre_de_ADS 2021.1/AV2 Python Django/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../3°_Semestre_de_ADS 2021.1/AV2 Python Django/ADS_JF/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../3°_Semestre_de_ADS 2021.1/AV2 Python Django/ADS_JF/.idea/ADS_JF.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../3°_Semestre_de_ADS 2021.1/AV2 Python Django/ADS_JF/.idea/aws.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../3°_Semestre_de_ADS 2021.1/AV2 Python Django/ADS_JF/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../3°_Semestre_de_ADS 2021.1/AV2 Python Django/ADS_JF/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../3°_Semestre_de_ADS 2021.1/AV2 Python Django/ADS_JF/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../3°_Semestre_de_ADS 2021.1/AV2 Python Django/ADS_JF/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../3°_Semestre_de_ADS 2021.1/AV2 Python Django/ADS_JF/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../3°_Semestre_de_ADS 2021.1/AV2 Python Django/ADS_JF/ADS_JF/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../3°_Semestre_de_ADS 2021.1/AV2 Python Django/ADS_JF/ADS_JF/asgi.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../3°_Semestre_de_ADS 2021.1/AV2 Python Django/ADS_JF/ADS_JF/settings.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../3°_Semestre_de_ADS 2021.1/AV2 Python Django/ADS_JF/ADS_JF/urls.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../3°_Semestre_de_ADS 2021.1/AV2 Python Django/ADS_JF/ADS_JF/wsgi.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../3°_Semestre_de_ADS 2021.1/AV2 Python Django/ADS_JF/Dhionathan/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../3°_Semestre_de_ADS 2021.1/AV2 Python Django/ADS_JF/Dhionathan/admin.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../3°_Semestre_de_ADS 2021.1/AV2 Python Django/ADS_JF/Dhionathan/apps.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../3°_Semestre_de_ADS 2021.1/AV2 Python Django/ADS_JF/Dhionathan/migrations/0001_initial.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../3°_Semestre_de_ADS 2021.1/AV2 Python Django/ADS_JF/Dhionathan/migrations/0002_auto_20210610_1319.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../3°_Semestre_de_ADS 2021.1/AV2 Python Django/ADS_JF/Dhionathan/migrations/0003_alter_disciplina_periodo.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../3°_Semestre_de_ADS 2021.1/AV2 Python Django/ADS_JF/Dhionathan/migrations/0004_auto_20210610_1355.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../3°_Semestre_de_ADS 2021.1/AV2 Python Django/ADS_JF/Dhionathan/migrations/0005_alter_avaliacao_data.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../3°_Semestre_de_ADS 2021.1/AV2 Python Django/ADS_JF/Dhionathan/migrations/0006_alter_avaliacao_nota.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../3°_Semestre_de_ADS 2021.1/AV2 Python Django/ADS_JF/Dhionathan/migrations/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../3°_Semestre_de_ADS 2021.1/AV2 Python Django/ADS_JF/Dhionathan/models.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../3°_Semestre_de_ADS 2021.1/AV2 Python Django/ADS_JF/Dhionathan/models/Avaliacao.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../3°_Semestre_de_ADS 2021.1/AV2 Python Django/ADS_JF/Dhionathan/models/Disciplina.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../3°_Semestre_de_ADS 2021.1/AV2 Python Django/ADS_JF/Dhionathan/models/Professor.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../3°_Semestre_de_ADS 2021.1/AV2 Python Django/ADS_JF/Dhionathan/models/Tipo_de_Avaliacao.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../3°_Semestre_de_ADS 2021.1/AV2 Python Django/ADS_JF/Dhionathan/models/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../3°_Semestre_de_ADS 2021.1/AV2 Python Django/ADS_JF/Dhionathan/tests.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../3°_Semestre_de_ADS 2021.1/AV2 Python Django/ADS_JF/Dhionathan/views.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../3°_Semestre_de_ADS 2021.1/AV2 Python Django/ADS_JF/dataflair/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../3°_Semestre_de_ADS 2021.1/AV2 Python Django/ADS_JF/dataflair/admin.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../3°_Semestre_de_ADS 2021.1/AV2 Python Django/ADS_JF/dataflair/apps.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../3°_Semestre_de_ADS 2021.1/AV2 Python Django/ADS_JF/dataflair/migrations/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../3°_Semestre_de_ADS 2021.1/AV2 Python Django/ADS_JF/dataflair/models.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../3°_Semestre_de_ADS 2021.1/AV2 Python Django/ADS_JF/dataflair/tests.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../3°_Semestre_de_ADS 2021.1/AV2 Python Django/ADS_JF/dataflair/views.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../3°_Semestre_de_ADS 2021.1/AV2 Python Django/ADS_JF/manage.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../3°_Semestre_de_ADS 2021.1/AV2 Python Django/ADS_JF/users/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../3°_Semestre_de_ADS 2021.1/AV2 Python Django/ADS_JF/users/admin.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../3°_Semestre_de_ADS 2021.1/AV2 Python Django/ADS_JF/users/apps.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../3°_Semestre_de_ADS 2021.1/AV2 Python Django/ADS_JF/users/migrations/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../3°_Semestre_de_ADS 2021.1/AV2 Python Django/ADS_JF/users/models.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../3°_Semestre_de_ADS 2021.1/AV2 Python Django/ADS_JF/users/tests.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../3°_Semestre_de_ADS 2021.1/AV2 Python Django/ADS_JF/users/views.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../3°_Semestre_de_ADS 2021.1/AV2 Python Django/Comandos.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../3°_Semestre_de_ADS 2021.1/AV2 Python Django/dhionathan.sql" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../3°_Semestre_de_ADS 2021.1/AV2 Python Django/print/print Banco Avaliacaotítulo.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../3°_Semestre_de_ADS 2021.1/AV2 Python Django/print/print Banco Disciplina.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../3°_Semestre_de_ADS 2021.1/AV2 Python Django/print/print Banco Professor.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../3°_Semestre_de_ADS 2021.1/AV2 Python Django/print/print Terminal 1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../3°_Semestre_de_ADS 2021.1/AV2 Python Django/print/print Terminal 2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../3°_Semestre_de_ADS 2021.1/AV2 Python Django/print/print Terminal 3.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../3°_Semestre_de_ADS 2021.1/Dhionathan Lanzoni Jobim 202001237331/AV2 Python Django/ADS_JF/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../3°_Semestre_de_ADS 2021.1/Dhionathan Lanzoni Jobim 202001237331/AV2 Python Django/ADS_JF/.idea/ADS_JF.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../3°_Semestre_de_ADS 2021.1/Dhionathan Lanzoni Jobim 202001237331/AV2 Python Django/ADS_JF/.idea/aws.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../3°_Semestre_de_ADS 2021.1/Dhionathan Lanzoni Jobim 202001237331/AV2 Python Django/ADS_JF/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../3°_Semestre_de_ADS 2021.1/Dhionathan Lanzoni Jobim 202001237331/AV2 Python Django/ADS_JF/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../3°_Semestre_de_ADS 2021.1/Dhionathan Lanzoni Jobim 202001237331/AV2 Python Django/ADS_JF/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../3°_Semestre_de_ADS 2021.1/Dhionathan Lanzoni Jobim 202001237331/AV2 Python Django/ADS_JF/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../3°_Semestre_de_ADS 2021.1/Dhionathan Lanzoni Jobim 202001237331/AV2 Python Django/ADS_JF/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../3°_Semestre_de_ADS 2021.1/Dhionathan Lanzoni Jobim 202001237331/AV2 Python Django/ADS_JF/ADS_JF/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../3°_Semestre_de_ADS 2021.1/Dhionathan Lanzoni Jobim 202001237331/AV2 Python Django/ADS_JF/ADS_JF/asgi.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../3°_Semestre_de_ADS 2021.1/Dhionathan Lanzoni Jobim 202001237331/AV2 Python Django/ADS_JF/ADS_JF/settings.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../3°_Semestre_de_ADS 2021.1/Dhionathan Lanzoni Jobim 202001237331/AV2 Python Django/ADS_JF/ADS_JF/urls.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../3°_Semestre_de_ADS 2021.1/Dhionathan Lanzoni Jobim 202001237331/AV2 Python Django/ADS_JF/ADS_JF/wsgi.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../3°_Semestre_de_ADS 2021.1/Dhionathan Lanzoni Jobim 202001237331/AV2 Python Django/ADS_JF/Dhionathan/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../3°_Semestre_de_ADS 2021.1/Dhionathan Lanzoni Jobim 202001237331/AV2 Python Django/ADS_JF/Dhionathan/admin.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../3°_Semestre_de_ADS 2021.1/Dhionathan Lanzoni Jobim 202001237331/AV2 Python Django/ADS_JF/Dhionathan/apps.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../3°_Semestre_de_ADS 2021.1/Dhionathan Lanzoni Jobim 202001237331/AV2 Python Django/ADS_JF/Dhionathan/migrations/0001_initial.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../3°_Semestre_de_ADS 2021.1/Dhionathan Lanzoni Jobim 202001237331/AV2 Python Django/ADS_JF/Dhionathan/migrations/0002_auto_20210610_1319.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../3°_Semestre_de_ADS 2021.1/Dhionathan Lanzoni Jobim 202001237331/AV2 Python Django/ADS_JF/Dhionathan/migrations/0003_alter_disciplina_periodo.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../3°_Semestre_de_ADS 2021.1/Dhionathan Lanzoni Jobim 202001237331/AV2 Python Django/ADS_JF/Dhionathan/migrations/0004_auto_20210610_1355.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../3°_Semestre_de_ADS 2021.1/Dhionathan Lanzoni Jobim 202001237331/AV2 Python Django/ADS_JF/Dhionathan/migrations/0005_alter_avaliacao_data.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../3°_Semestre_de_ADS 2021.1/Dhionathan Lanzoni Jobim 202001237331/AV2 Python Django/ADS_JF/Dhionathan/migrations/0006_alter_avaliacao_nota.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../3°_Semestre_de_ADS 2021.1/Dhionathan Lanzoni Jobim 202001237331/AV2 Python Django/ADS_JF/Dhionathan/migrations/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../3°_Semestre_de_ADS 2021.1/Dhionathan Lanzoni Jobim 202001237331/AV2 Python Django/ADS_JF/Dhionathan/models.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../3°_Semestre_de_ADS 2021.1/Dhionathan Lanzoni Jobim 202001237331/AV2 Python Django/ADS_JF/Dhionathan/models/Avaliacao.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../3°_Semestre_de_ADS 2021.1/Dhionathan Lanzoni Jobim 202001237331/AV2 Python Django/ADS_JF/Dhionathan/models/Disciplina.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../3°_Semestre_de_ADS 2021.1/Dhionathan Lanzoni Jobim 202001237331/AV2 Python Django/ADS_JF/Dhionathan/models/Professor.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../3°_Semestre_de_ADS 2021.1/Dhionathan Lanzoni Jobim 202001237331/AV2 Python Django/ADS_JF/Dhionathan/models/Tipo_de_Avaliacao.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../3°_Semestre_de_ADS 2021.1/Dhionathan Lanzoni Jobim 202001237331/AV2 Python Django/ADS_JF/Dhionathan/models/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../3°_Semestre_de_ADS 2021.1/Dhionathan Lanzoni Jobim 202001237331/AV2 Python Django/ADS_JF/Dhionathan/tests.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../3°_Semestre_de_ADS 2021.1/Dhionathan Lanzoni Jobim 202001237331/AV2 Python Django/ADS_JF/Dhionathan/views.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../3°_Semestre_de_ADS 2021.1/Dhionathan Lanzoni Jobim 202001237331/AV2 Python Django/ADS_JF/manage.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../3°_Semestre_de_ADS 2021.1/Dhionathan Lanzoni Jobim 202001237331/AV2 Python Django/Comandos.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../3°_Semestre_de_ADS 2021.1/Dhionathan Lanzoni Jobim 202001237331/AV2 Python Django/dhionathan.sql" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../3°_Semestre_de_ADS 2021.1/Django.rar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../3°_Semestre_de_ADS 2021.1/Django/.idea/Django.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../3°_Semestre_de_ADS 2021.1/Django/.idea/aws.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../3°_Semestre_de_ADS 2021.1/Django/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../3°_Semestre_de_ADS 2021.1/Django/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../3°_Semestre_de_ADS 2021.1/Django/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../3°_Semestre_de_ADS 2021.1/Django/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../3°_Semestre_de_ADS 2021.1/Django/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../3°_Semestre_de_ADS 2021.1/Django/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../3°_Semestre_de_ADS 2021.1/Django/estácio/estacio/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../3°_Semestre_de_ADS 2021.1/Django/estácio/estacio/.idea/aws.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../3°_Semestre_de_ADS 2021.1/Django/estácio/estacio/.idea/estacio.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../3°_Semestre_de_ADS 2021.1/Django/estácio/estacio/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../3°_Semestre_de_ADS 2021.1/Django/estácio/estacio/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../3°_Semestre_de_ADS 2021.1/Django/estácio/estacio/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../3°_Semestre_de_ADS 2021.1/Django/estácio/estacio/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../3°_Semestre_de_ADS 2021.1/Django/estácio/estacio/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../3°_Semestre_de_ADS 2021.1/Django/estácio/estacio/db.sqlite3" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../3°_Semestre_de_ADS 2021.1/Django/estácio/estacio/estacio/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../3°_Semestre_de_ADS 2021.1/Django/estácio/estacio/estacio/asgi.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../3°_Semestre_de_ADS 2021.1/Django/estácio/estacio/estacio/settings.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../3°_Semestre_de_ADS 2021.1/Django/estácio/estacio/estacio/urls.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../3°_Semestre_de_ADS 2021.1/Django/estácio/estacio/estacio/wsgi.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../3°_Semestre_de_ADS 2021.1/Django/estácio/estacio/manage.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../3°_Semestre_de_ADS 2021.1/Django/estácio/estacio/zanova/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../3°_Semestre_de_ADS 2021.1/Django/estácio/estacio/zanova/admin.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../3°_Semestre_de_ADS 2021.1/Django/estácio/estacio/zanova/apps.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../3°_Semestre_de_ADS 2021.1/Django/estácio/estacio/zanova/migrations/0001_initial.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../3°_Semestre_de_ADS 2021.1/Django/estácio/estacio/zanova/migrations/0002_alter_departamento_nome.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../3°_Semestre_de_ADS 2021.1/Django/estácio/estacio/zanova/migrations/0003_funcionario.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../3°_Semestre_de_ADS 2021.1/Django/estácio/estacio/zanova/migrations/0004_gerente.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../3°_Semestre_de_ADS 2021.1/Django/estácio/estacio/zanova/migrations/0005_funcionario_departamento.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../3°_Semestre_de_ADS 2021.1/Django/estácio/estacio/zanova/migrations/0006_remove_funcionario_departamento.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../3°_Semestre_de_ADS 2021.1/Django/estácio/estacio/zanova/migrations/0007_remove_funcionario_departamento.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../3°_Semestre_de_ADS 2021.1/Django/estácio/estacio/zanova/migrations/0008_funcionario_departamento.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../3°_Semestre_de_ADS 2021.1/Django/estácio/estacio/zanova/migrations/0009_rename_departamento_funcionario_departamento.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../3°_Semestre_de_ADS 2021.1/Django/estácio/estacio/zanova/migrations/0010_venda.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../3°_Semestre_de_ADS 2021.1/Django/estácio/estacio/zanova/migrations/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../3°_Semestre_de_ADS 2021.1/Django/estácio/estacio/zanova/models.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../3°_Semestre_de_ADS 2021.1/Django/estácio/estacio/zanova/models/Departamento.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../3°_Semestre_de_ADS 2021.1/Django/estácio/estacio/zanova/models/Funcionario.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../3°_Semestre_de_ADS 2021.1/Django/estácio/estacio/zanova/models/Gerente.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../3°_Semestre_de_ADS 2021.1/Django/estácio/estacio/zanova/models/Venda.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../3°_Semestre_de_ADS 2021.1/Django/estácio/estacio/zanova/models/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../3°_Semestre_de_ADS 2021.1/Django/estácio/estacio/zanova/tests.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../3°_Semestre_de_ADS 2021.1/Django/estácio/estacio/zanova/urls.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../3°_Semestre_de_ADS 2021.1/Django/estácio/estacio/zanova/views.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../3°_Semestre_de_ADS 2021.1/Notebooks/Introdução Notebook.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../3°_Semestre_de_ADS 2021.1/Notebooks/Juputer Manipulação arquivo String Bruno.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../3°_Semestre_de_ADS 2021.1/Notebooks/Manipulação de Arquivos.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../3°_Semestre_de_ADS 2021.1/Notebooks/Manipulação de String Bruno.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../3°_Semestre_de_ADS 2021.1/Notebooks/Manipulação de String.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../3°_Semestre_de_ADS 2021.1/Notebooks/Resumo Python Professor Ronney.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../3°_Semestre_de_ADS 2021.1/Notebooks/Sara Ads.rar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../3°_Semestre_de_ADS 2021.1/Notebooks/Tentativa 03.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../3°_Semestre_de_ADS 2021.1/Notebooks/Tentativa 04.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../3°_Semestre_de_ADS 2021.1/Notebooks/Tentativa1.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../3°_Semestre_de_ADS 2021.1/Notebooks/Untitled1.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../3°_Semestre_de_ADS 2021.1/Notebooks/arquivo.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../3°_Semestre_de_ADS 2021.1/Notebooks/img.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../3°_Semestre_de_ADS 2021.1/Notebooks/notas_estudantes.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../3°_Semestre_de_ADS 2021.1/Notebooks/test.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../3°_Semestre_de_ADS 2021.1/Novo/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../3°_Semestre_de_ADS 2021.1/Novo/.idea/Novo.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../3°_Semestre_de_ADS 2021.1/Novo/.idea/aws.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../3°_Semestre_de_ADS 2021.1/Novo/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../3°_Semestre_de_ADS 2021.1/Novo/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../3°_Semestre_de_ADS 2021.1/Novo/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../3°_Semestre_de_ADS 2021.1/Novo/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../3°_Semestre_de_ADS 2021.1/Novo/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../3°_Semestre_de_ADS 2021.1/Novo/ADS_JF/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../3°_Semestre_de_ADS 2021.1/Novo/ADS_JF/.idea/ADS_JF.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../3°_Semestre_de_ADS 2021.1/Novo/ADS_JF/.idea/aws.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../3°_Semestre_de_ADS 2021.1/Novo/ADS_JF/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../3°_Semestre_de_ADS 2021.1/Novo/ADS_JF/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../3°_Semestre_de_ADS 2021.1/Novo/ADS_JF/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../3°_Semestre_de_ADS 2021.1/Novo/ADS_JF/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../3°_Semestre_de_ADS 2021.1/Novo/ADS_JF/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../3°_Semestre_de_ADS 2021.1/Novo/ADS_JF/ADS_JF/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../3°_Semestre_de_ADS 2021.1/Novo/ADS_JF/ADS_JF/asgi.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../3°_Semestre_de_ADS 2021.1/Novo/ADS_JF/ADS_JF/settings.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../3°_Semestre_de_ADS 2021.1/Novo/ADS_JF/ADS_JF/urls.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../3°_Semestre_de_ADS 2021.1/Novo/ADS_JF/ADS_JF/wsgi.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../3°_Semestre_de_ADS 2021.1/Novo/ADS_JF/Dhionathan/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../3°_Semestre_de_ADS 2021.1/Novo/ADS_JF/Dhionathan/admin.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../3°_Semestre_de_ADS 2021.1/Novo/ADS_JF/Dhionathan/apps.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../3°_Semestre_de_ADS 2021.1/Novo/ADS_JF/Dhionathan/migrations/0001_initial.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../3°_Semestre_de_ADS 2021.1/Novo/ADS_JF/Dhionathan/migrations/0002_auto_20210613_2342.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../3°_Semestre_de_ADS 2021.1/Novo/ADS_JF/Dhionathan/migrations/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../3°_Semestre_de_ADS 2021.1/Novo/ADS_JF/Dhionathan/models.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../3°_Semestre_de_ADS 2021.1/Novo/ADS_JF/Dhionathan/models/Disciplina.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../3°_Semestre_de_ADS 2021.1/Novo/ADS_JF/Dhionathan/models/Professor.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../3°_Semestre_de_ADS 2021.1/Novo/ADS_JF/Dhionathan/models/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../3°_Semestre_de_ADS 2021.1/Novo/ADS_JF/Dhionathan/tests.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../3°_Semestre_de_ADS 2021.1/Novo/ADS_JF/Dhionathan/views.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../3°_Semestre_de_ADS 2021.1/Novo/ADS_JF/manage.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../3°_Semestre_de_ADS 2021.1/POO/.ipynb_checkpoints/Exercício-checkpoint.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../3°_Semestre_de_ADS 2021.1/POO/Aula.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../3°_Semestre_de_ADS 2021.1/POO/Exercício 02 OOP.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../3°_Semestre_de_ADS 2021.1/POO/Exercício 03 OOP.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../3°_Semestre_de_ADS 2021.1/POO/Exercício 04 OOP.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../3°_Semestre_de_ADS 2021.1/POO/Exercício.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../3°_Semestre_de_ADS 2021.1/POO/OOP - Encapsulamento.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../3°_Semestre_de_ADS 2021.1/POO/POO - Associação Entre Classes.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../3°_Semestre_de_ADS 2021.1/POO/Sara Ads/Tentativa 03.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../3°_Semestre_de_ADS 2021.1/POO/Sara Ads/notas_estudantes.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../3°_Semestre_de_ADS 2021.1/POO/exercício OOP.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../3°_Semestre_de_ADS 2021.1/POO/poo-aula01.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../3°_Semestre_de_ADS 2021.1/POO/poo-aula02.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../3°_Semestre_de_ADS 2021.1/POO/poo-aula03.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../3°_Semestre_de_ADS 2021.1/POO/poo-aula04.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../3°_Semestre_de_ADS 2021.1/Revisão Dhionathan.rar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../3°_Semestre_de_ADS 2021.1/comandos.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../3°_Semestre_de_ADS 2021.1/pao_duro.sql" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../3°_Semestre_de_ADS 2021.1/revisao/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../3°_Semestre_de_ADS 2021.1/revisao/.idea/aws.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../3°_Semestre_de_ADS 2021.1/revisao/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../3°_Semestre_de_ADS 2021.1/revisao/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../3°_Semestre_de_ADS 2021.1/revisao/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../3°_Semestre_de_ADS 2021.1/revisao/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../3°_Semestre_de_ADS 2021.1/revisao/.idea/revisao.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../3°_Semestre_de_ADS 2021.1/revisao/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../3°_Semestre_de_ADS 2021.1/revisao/PAO_DURO/PAO_DURO/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../3°_Semestre_de_ADS 2021.1/revisao/PAO_DURO/PAO_DURO/asgi.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../3°_Semestre_de_ADS 2021.1/revisao/PAO_DURO/PAO_DURO/settings.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../3°_Semestre_de_ADS 2021.1/revisao/PAO_DURO/PAO_DURO/urls.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../3°_Semestre_de_ADS 2021.1/revisao/PAO_DURO/PAO_DURO/wsgi.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../3°_Semestre_de_ADS 2021.1/revisao/PAO_DURO/db.sqlite3" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../3°_Semestre_de_ADS 2021.1/revisao/PAO_DURO/manage.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../3°_Semestre_de_ADS 2021.1/revisao/PAO_DURO/polls/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../3°_Semestre_de_ADS 2021.1/revisao/PAO_DURO/polls/admin.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../3°_Semestre_de_ADS 2021.1/revisao/PAO_DURO/polls/apps.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../3°_Semestre_de_ADS 2021.1/revisao/PAO_DURO/polls/migrations/0001_initial.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../3°_Semestre_de_ADS 2021.1/revisao/PAO_DURO/polls/migrations/0002_rename_dispensa_despesa.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../3°_Semestre_de_ADS 2021.1/revisao/PAO_DURO/polls/migrations/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../3°_Semestre_de_ADS 2021.1/revisao/PAO_DURO/polls/models/Carteira.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../3°_Semestre_de_ADS 2021.1/revisao/PAO_DURO/polls/models/Despesa.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../3°_Semestre_de_ADS 2021.1/revisao/PAO_DURO/polls/models/Receita.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../3°_Semestre_de_ADS 2021.1/revisao/PAO_DURO/polls/models/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../3°_Semestre_de_ADS 2021.1/revisao/PAO_DURO/polls/tests.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../3°_Semestre_de_ADS 2021.1/revisao/PAO_DURO/polls/views.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Testes/Formatando Nome.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Testes/push.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Testes/zanova.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../main.py" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -181,10 +534,10 @@
       <method v="2" />
     </configuration>
     <list>
-      <item itemvalue="Python.Unnamed" />
       <item itemvalue="Python.Exercicio_16" />
       <item itemvalue="Python.Exercicio_17" />
       <item itemvalue="Python.Exercicio_18" />
+      <item itemvalue="Python.Unnamed" />
       <item itemvalue="Python.dunder" />
       <item itemvalue="Python.segundo" />
     </list>
@@ -543,7 +896,14 @@
       <option name="project" value="LOCAL" />
       <updated>1641767488593</updated>
     </task>
-    <option name="localTasksCounter" value="49" />
+    <task id="LOCAL-00049" summary="Deletando Arquivos Sem Relevância">
+      <created>1641783602158</created>
+      <option name="number" value="00049" />
+      <option name="presentableId" value="LOCAL-00049" />
+      <option name="project" value="LOCAL" />
+      <updated>1641783602158</updated>
+    </task>
+    <option name="localTasksCounter" value="50" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -601,6 +961,7 @@
     <MESSAGE value="UP =&gt; Material Python" />
     <MESSAGE value="UP =&gt; Python Praticando com Exercícios" />
     <MESSAGE value="UP =&gt; Python Praticando com Exercícios" />
-    <option name="LAST_COMMIT_MESSAGE" value="UP =&gt; Python Praticando com Exercícios" />
+    <MESSAGE value="Deletando Arquivos Sem Relevância" />
+    <option name="LAST_COMMIT_MESSAGE" value="Deletando Arquivos Sem Relevância" />
   </component>
 </project>
