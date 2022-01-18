@@ -11,6 +11,10 @@
 <body onresize="detectorDaAreaDisponivelDoJogo()">
     <script>
         criandoPosicaoRandomica()
+
+        setInterval(function () {
+            criandoPosicaoRandomica()           
+        }, 1000)
     </script>
 
 </body>

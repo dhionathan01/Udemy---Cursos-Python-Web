@@ -13,6 +13,12 @@ detectorDaAreaDisponivelDoJogo()
 
 
 function criandoPosicaoRandomica() {
+    // Removendo o mosquito anterior (caso exista)
+    if (document.getElementById('mosquito')) {
+        document.getElementById('mosquito').remove()
+    }
+    
+
     var posicaoX = Math.floor(Math.random() * largura) - 90   // é necessário diminuir o valor em píxel que o elemento ocupa
     var posicaoY = Math.floor(Math.random() * altura) - 90 //  Explicação: Aula 225 - 14:50 minutos
 
@@ -26,7 +32,9 @@ function criandoPosicaoRandomica() {
     mosquito.style.left = posicaoX + 'px' // Defindo um estilo de deslocamento a esquerda com a coordenada aleatória gerada
     mosquito.style.top = posicaoY + 'px' // Defindo um estilo de deslocamento para cima com a coordenada aleatória gerada
     mosquito.style.position = 'Absolute' // Definindo uma posição absoluta ao estilo, apra que o deslocamento tenha efeito
+    mosquito.id = 'mosquito'
     document.body.appendChild(mosquito) // Acessando o body da nossa pagina, e adicionando um filho a ele
+    console.log(posicaoX , posicaoY)
     console.log(ladoSurgimentoMosquito())
 }
 
