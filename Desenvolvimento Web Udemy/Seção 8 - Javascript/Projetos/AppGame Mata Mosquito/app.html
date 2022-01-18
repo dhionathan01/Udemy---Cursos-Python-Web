@@ -11,9 +11,9 @@
 <body onresize="detectorDaAreaDisponivelDoJogo()">
     <div class="painel">
         <div class="vida">
-            <img src="img/coracao_cheio.png" alt="">
-            <img src="img/coracao_cheio.png" alt="">
-            <img src="img/coracao_cheio.png" alt="">
+            <img id="vida1" src="img/coracao_cheio.png" alt="">
+            <img id="vida2" src="img/coracao_cheio.png" alt="">
+            <img id="vida3" src="img/coracao_cheio.png" alt="">
         </div>
         
         <div class="cronometro"> Tempo restante: ?
@@ -25,7 +25,7 @@
 
         setInterval(function () {
             criandoPosicaoRandomica()           
-        }, 1000)
+        }, 2000)
     </script>
 
 </body>

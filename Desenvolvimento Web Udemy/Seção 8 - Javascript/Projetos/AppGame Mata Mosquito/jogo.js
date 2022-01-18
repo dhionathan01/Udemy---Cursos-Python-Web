@@ -1,5 +1,6 @@
 var altura = 0
 var largura = 0
+var vidas = 1
 
 
 function detectorDaAreaDisponivelDoJogo() {
@@ -16,6 +17,12 @@ function criandoPosicaoRandomica() {
     // Removendo o mosquito anterior (caso exista)
     if (document.getElementById('mosquito')) {
         document.getElementById('mosquito').remove()
+        if (vidas > 3) {
+            alert('interromper o jogo (game over)')
+        } else {
+            document.getElementById('vida' + vidas).src = 'img/coracao_vazio.png'
+            vidas++
+        }
     }
     
 
@@ -33,7 +40,13 @@ function criandoPosicaoRandomica() {
     mosquito.style.top = posicaoY + 'px' // Defindo um estilo de deslocamento para cima com a coordenada aleatória gerada
     mosquito.style.position = 'Absolute' // Definindo uma posição absoluta ao estilo, apra que o deslocamento tenha efeito
     mosquito.id = 'mosquito'
+    mosquito.onclick = function () {
+        this.remove()
+    }
+
     document.body.appendChild(mosquito) // Acessando o body da nossa pagina, e adicionando um filho a ele
+
+
     console.log(posicaoX , posicaoY)
     console.log(ladoSurgimentoMosquito())
 }
