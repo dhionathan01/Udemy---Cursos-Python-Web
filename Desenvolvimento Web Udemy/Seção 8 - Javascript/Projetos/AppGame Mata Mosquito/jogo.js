@@ -22,10 +22,24 @@ function criandoPosicaoRandomica() {
     // Criando o elemento html no caso a imagem do mosquito
     var mosquito = document.createElement('img') // Criando uma tag de img no html usando o javascript
     mosquito.src = 'img/mosquito.png' // Utilizando a propriedade scr da tag <img> 'img' criada, e definindo o endereço da img
-    mosquito.className = 'mosquito1' // Adicionando uma classe a tag que foi atribuida a variável correspondente
+    mosquito.className = tamanhoAleatorioMosquito() // Adicionando uma classe a tag que foi atribuida a variável correspondente
     mosquito.style.left = posicaoX + 'px' // Defindo um estilo de deslocamento a esquerda com a coordenada aleatória gerada
     mosquito.style.top = posicaoY + 'px' // Defindo um estilo de deslocamento para cima com a coordenada aleatória gerada
     mosquito.style.position = 'Absolute' // Definindo uma posição absoluta ao estilo, apra que o deslocamento tenha efeito
     document.body.appendChild(mosquito) // Acessando o body da nossa pagina, e adicionando um filho a ele
+    console.log(tamanhoAleatorioMosquito())
+}
+
+function tamanhoAleatorioMosquito() {
+    var classe = Math.floor(Math.random() * 3)
+    console.log(classe)
+    switch (classe) {
+        case 0:
+            return 'mosquito1'
+        case 1:
+            return 'mosquito2'
+        case 2:
+            return 'mosquito3'
+    }
 }
 
