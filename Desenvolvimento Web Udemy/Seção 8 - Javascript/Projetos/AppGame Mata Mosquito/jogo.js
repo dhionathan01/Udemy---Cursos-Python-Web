@@ -17,22 +17,22 @@ function criandoPosicaoRandomica() {
     var posicaoY = Math.floor(Math.random() * altura) - 90 //  Explicação: Aula 225 - 14:50 minutos
 
     posicaoX = posicaoX < 0 ? 0 : posicaoX // Operador ternário para evitar que algum número negativo seja apresentado
-    posicaoY = posicaoY < 0 ? 0 :posicaoY  // Operador ternário para evitar que algum número negativo seja apresentado
+    posicaoY = posicaoY < 0 ? 0 : posicaoY  // Operador ternário para evitar que algum número negativo seja apresentado
 
     // Criando o elemento html no caso a imagem do mosquito
     var mosquito = document.createElement('img') // Criando uma tag de img no html usando o javascript
     mosquito.src = 'img/mosquito.png' // Utilizando a propriedade scr da tag <img> 'img' criada, e definindo o endereço da img
-    mosquito.className = tamanhoAleatorioMosquito() // Adicionando uma classe a tag que foi atribuida a variável correspondente
+    mosquito.className = tamanhoAleatorioMosquito() + ' ' + ladoSurgimentoMosquito() // Adicionando uma classe a tag que foi atribuida a variável correspondente
     mosquito.style.left = posicaoX + 'px' // Defindo um estilo de deslocamento a esquerda com a coordenada aleatória gerada
     mosquito.style.top = posicaoY + 'px' // Defindo um estilo de deslocamento para cima com a coordenada aleatória gerada
     mosquito.style.position = 'Absolute' // Definindo uma posição absoluta ao estilo, apra que o deslocamento tenha efeito
     document.body.appendChild(mosquito) // Acessando o body da nossa pagina, e adicionando um filho a ele
-    console.log(tamanhoAleatorioMosquito())
+    console.log(ladoSurgimentoMosquito())
 }
+
 
 function tamanhoAleatorioMosquito() {
     var classe = Math.floor(Math.random() * 3)
-    console.log(classe)
     switch (classe) {
         case 0:
             return 'mosquito1'
@@ -43,3 +43,14 @@ function tamanhoAleatorioMosquito() {
     }
 }
 
+
+function ladoSurgimentoMosquito() {
+    var lado = Math.floor(Math.random() * 2)
+
+    switch (lado) {
+        case 0:
+            return 'ladoA'
+        case 1:
+            return 'ladoB'
+    }
+}
